@@ -1,21 +1,22 @@
 
-setwd("C:/Users/ccampbell/Documents/Misc/R/troop-creator")
+setwd("C:/Users/ccampbell/Documents/Misc/R/troop-creator/WTCParse")
 
 library(RJSONIO) # fromJSON(content)
 library(XLConnect)
 
 source("R/findCaster.R")
 source("R/findFaction.R")
-source("R/warjackSearch.R")
+#source("R/warjackSearch.R")
 
 listsize <- 75
-datadir <- "troop-creator/data"
+datadir <- "../troop-creator/data"
 emaildir <- "emails"
 logdir <- "logs"
 
 # missing line breaks
 # Denmark Asgaard
 # Sebastian Kaas Petersen
+# Wales Dant
 
 # extra line breaks 
 # France Asterix
@@ -253,6 +254,24 @@ for (emailname in workSheetNames) {
             players
         })
     
+    if (emailname == "Canada Goose") {
+        players <- email[c(2, 41, 85, 123, 167)]
+    }
+    if (emailname == "Canada Moose") {
+        players <- email[c(2, 31, 62, 102, 133)]
+    }
+    if (emailname == "Czech Rep Red") {
+        players <- email[c(1, 34, 66, 101, 138)]
+    }
+    if (emailname == "Denmark Asgaard") {
+        players <- email[c(1, 31, 56, 83, 117)]
+    }
+    if (emailname == "Denmark Jotunheim") {
+        players <- email[c(1, 44, 85, 124, 165)]
+    }
+    if (emailname == "England Roses") {
+        players <- email[c()]
+    }
     if (length(players) == 5L) {
         players <- rep(players, each = 2)
     }
