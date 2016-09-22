@@ -13,6 +13,7 @@ datadir <- "../troop-creator/data"
 emaildir <- "emails"
 logdir <- "logs"
 
+dir.create(logdir)
 # missing line breaks
 # Denmark Asgaard
 # Sebastian Kaas Petersen
@@ -237,7 +238,7 @@ for (emailname in workSheetNames) {
     }
     players <- email[playerInd]
     players <- switch(as.character(style), 
-        "1" = gsub(pattern = "^[Pp][Ll][Aa][Yy][Ee][Rr]:( )*", 
+        "1" = gsub(pattern = "[Pp][Ll][Aa][Yy][Ee][Rr](:){0,1}( )*", 
             replacement = "", x = players),
         "2" =  gsub(pattern = ":( )*$", 
             replacement = "", x = players),
@@ -270,8 +271,38 @@ for (emailname in workSheetNames) {
         players <- email[c(1, 44, 85, 124, 165)]
     }
     if (emailname == "England Roses") {
-        players <- email[c()]
+        players <- email[c(2, 34, 68, 97, 134)]
     }
+    if (emailname == "England Knights") {
+        players <- email[c(2, 38, 70, 99, 134)]
+    }
+    if (emailname == "Finland Ilmarinen") {
+        players <- email[c(1, 24, 53, 76, 100)]
+    }
+    if (emailname == "France Asterix") {
+        players <- email[c(2, 41, 73, 105, 150)]
+    }
+    if (emailname == "France Obelix") {
+        players <- email[c(1, 31, 61, 85, 115)]
+    }
+    if (emailname == "Germany Gold") {
+        players <- email[c(1, 39, 73, 108, 147)]
+    }
+    if (emailname == "Germany Red") {
+        players <- email[c(1, 33, 71, 100, 124)]
+    }
+    if (emailname == "Germany Black") {
+        players <- email[c(3, 32, 62, 90, 121)]
+    }
+    if (emailname == "Greece Epic") {
+        players <- email[c(2, 30, 59, 88, 118)]
+    }
+    # if (emailname == "Greece Prime") {
+    #     players <- email[c(1, )]
+    # }
+    
+    
+    
     if (length(players) == 5L) {
         players <- rep(players, each = 2)
     }
