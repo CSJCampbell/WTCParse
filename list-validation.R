@@ -196,12 +196,12 @@ for (emailname in workSheetNames) {
     ###########################################################
     
     # identify records corresponding to player name...
-    playerInd <- grep(pattern = "^[Pp][Ll][Aa][Yy][Ee][Rr]",
+    playerInd <- grep(pattern = "([Pp][Ll][Aa][Yy][Ee][Rr](:){0,1}( )*|^[1-5](\\)|\\.) |^0[1-5] )",
         x = email)
     style <- 1
     
     if (!length(playerInd) %in% c(5, 10)) {
-        playerInd2 <- grep(pattern = ":( )*$",
+        playerInd2 <- grep(pattern = "(^#[1-5]){0,1}.*:( )*$",
             x = email)
         style <- 2
         if (!length(playerInd2) %in% c(5, 10)) {
