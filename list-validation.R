@@ -6,6 +6,7 @@ library(XLConnect)
 
 source("R/findCaster.R")
 source("R/findFaction.R")
+source("R/findPlayer.R")
 #source("R/warjackSearch.R")
 
 listsize <- 75
@@ -47,23 +48,6 @@ minions <- fromJSON(content = file.path(datadir, "minion.json"))
 retribution <- fromJSON(content = file.path(datadir, "scyrah.json"))
 skorne <- fromJSON(content = file.path(datadir, "skorne.json"))
 trollbloods <- fromJSON(content = file.path(datadir, "trollblood.json"))
-
-#skorne$groups$entries
-#khador$groups$entries
-
-factionPat <- c(
-    circle = "([Cc]ircle|[Oo]rboros|[Cc]ircle (of ){0,1}[Oo]rboros)", 
-    convergence = "([Cc]onvergence|Cc]yriss|[Cc]onvergence of [Cc]yriss)", 
-    cryx = "[Cc]ryx", 
-    cygnar = "[Cc]ygnar", 
-    legion = "([Ll]egion|[Ee]verblight|[Ll]egion of [Ee]verblight)", 
-    khador = "[Kk]hador", 
-    protectorate = "([Pp]rotectorate|[Mm]enoth|[Pp]rotectorate of [Mm]enoth)", 
-    mercenaries = "[Mm]ercenar(y|ies)", 
-    minions = "[Mm]inion(s){0,1}", 
-    retribution = "([Rr]etribution|[Ss]cyrah|[Rr]etribution of [Ss]cyrah)", 
-    skorne = "[Ss]korne", 
-    trollbloods = "[Tt]rollblood(s){0,1}")
 
 ###########################################################
 
@@ -196,64 +180,11 @@ for (emailname in workSheetNames) {
     ###########################################################
     
     # identify records corresponding to player name...
-    playerInd <- grep(pattern = "([Pp][Ll][Aa][Yy][Ee][Rr](:){0,1}( )*|^[1-5](\\)|\\.) |^0[1-5] )",
-        x = email)
-    style <- 1
+    playerInd <- findPlayer(txt = email, 
+        label = emailname, 
+        path = file.path(logdir, logname))
     
-    if (!length(playerInd) %in% c(5, 10)) {
-        playerInd2 <- grep(pattern = "(^#[1-5]){0,1}.*:( )*$",
-            x = email)
-        style <- 2
-        if (!length(playerInd2) %in% c(5, 10)) {
-            playerInd3 <- grep(pattern = paste0(" - (", 
-                    paste(factionPat, collapse = "|"), ")( \\(Captain\\)){0,1}$"), 
-                x = email)
-            style <- 3
-            if (!length(playerInd3) %in% c(5, 10)) {
-                # just Austria 2
-                playerInd4 <- grep(pattern = paste0("^(", 
-                        paste(factionPat, collapse = "|"), 
-                        ") - WTC - FINAL - "), 
-                    x = email)
-                style <- 4
-                if (!length(playerInd4) %in% c(5, 10)) {
-                    cat(paste0("\nwarning: found ", length(playerInd), "players in ", emailname), 
-                        file = file.path(logdir, logname), append = TRUE)
-                } else {
-                    playerInd <- playerInd4
-                }
-            } else { 
-                playerInd <- playerInd3
-            }
-        } else {
-            playerInd <- playerInd2
-        }
-    }
-    if (!length(playerInd) %in% c(5, 10)) {
-        pInd <- unique(sort(c(playerInd, 
-            playerInd2, playerInd3, playerInd4)))
-        warning(length(pInd), " players found in ", emailname)
-        pInd <- pInd[min(length(pInd), 10)]
-        playerInd <- c(pInd, character(10 - length(pInd)))
-    }
-    players <- email[playerInd]
-    players <- switch(as.character(style), 
-        "1" = gsub(pattern = "[Pp][Ll][Aa][Yy][Ee][Rr](:){0,1}( )*", 
-            replacement = "", x = players),
-        "2" =  gsub(pattern = ":( )*$", 
-            replacement = "", x = players),
-        "3" = gsub(pattern = paste0(" - (", 
-                paste(factionPat, collapse = "|"), ")( \\(Captain\\)){0,1}$"), 
-            replacement = "", x = players),
-        "4" = {
-            players <- gsub(pattern = paste0("^(", 
-                paste(factionPat, collapse = "|"), 
-                ") - WTC - FINAL - "), 
-            replacement = "", x = players)
-            players <- gsub(pattern = " - [A-Z][a-z]+[1-3]$", 
-                replacement = "", x = players)
-            players
-        })
+    players <- attr(x = playerInd, which = "data")
     
     if (emailname == "Canada Goose") {
         players <- email[c(2, 41, 85, 123, 167)]
@@ -427,5 +358,5 @@ wtcLists <- wtcLists[
 
 wtcLists1 <- wtcLists[!is.na(wtcLists[, "id"]) & 
         wtcLists[, "cost"] > 0, 1:9]
-# write.table(wtcLists1, file = "wtcLists2016.txt", 
-#     quote = FALSE, row.names = FALSE, col.names = TRUE, sep = "\t")
+write.table(wtcLists1, file = "wtcLists2016.txt", 
+    quote = FALSE, row.names = FALSE, col.names = TRUE, sep = "\t")

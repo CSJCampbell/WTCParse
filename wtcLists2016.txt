@@ -1,0 +1,641 @@
+team	player	faction	list	objective	wrname	tcname	id	cost
+Australia Wallaby	Russell Harman	cryx	Scaverous1	Fuel Cache	Lord Exhumator Scaverous – WJ: +27	Scaverous1 (Lord Exhumator Scaverous)	CW09	27
+Australia Wallaby	Russell Harman	cryx	Deneghra1	Effigy of Valour	Warwitch Deneghra – WJ: +28	Deneghra1 (Warwitch Deneghra)	CW02	28
+Australia Wallaby	Henry Wagner	legion	Thagrosh1	Armory	Thagrosh, Prophet of Everblight - WB: +28	Thagrosh1 (Thagrosh Prophet of Everblight)	EW02	28
+Australia Wallaby	Henry Wagner	legion	Lylyth3	Arcane Wonder	Lylyth, Reckoning of Everblight - WB: +29	Lylyth3 (Lylyth Reckoning of Everblight)	EW14	29
+Australia Wallaby	Rohan Mowle	protectorate	Reznik1	Stockpile	High Executioner Servath Reznik - WJ: +28	Reznik1 (High Executioner Servath Reznik)	PW07	28
+Australia Wallaby	Rohan Mowle	protectorate	High Reclaimer1	Fuel Cache	The High Reclaimer - WJ: +32	High Reclaimer1 (The High Reclaimer)	PW02	32
+Australia Wallaby	Liam Gallagher	minions	Arkadius1	Fuel Cache	Dr. Arkadius - WB: +32	 Arkadius1 (Dr. Arkadius)	IW04	32
+Australia Wallaby	Liam Gallagher	minions	Carver1	Arcane Wonder	Lord Carver, BMMD, Esq. III - WB: +28	Carver1 (Lord Carver BMMD Esq. III)	IW01	28
+Australia Wallaby	Dimitri Sarbanis	protectorate	Severius2	Effigy of Valour	Hierarch Severius - WJ: +26	Severius2 (Hierarch Severius)	PW14	26
+Australia Wallaby	Dimitri Sarbanis	protectorate	Harbinger1	Bunker	The Harbinger of Menoth - WJ: +24	Harbinger1 (The Harbinger of Menoth)	PW06	24
+Australia Echidna	Chris Davies	khador	Strakhov1	NA	Kommander Oleg Strakhov - WJ: +28	 Strakhov1 (Kommander Oleg Strakhov)	KW08	28
+Australia Echidna	Chris Davies	khador	Irusk2	NA	Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Australia Echidna	Dylan Simmer	retribution	Rahn1	NA	Adeptis Rahn - WJ: +26	 Rahn1 (Adeptis Rahn)	RW01	26
+Australia Echidna	Dylan Simmer	retribution	Kaelyssa1	NA	Kaelyssa, The Night's Whisper - WJ: +29	 Kaelyssa1 (Kaelyssa Night's Whisper)	RW04	29
+Australia Echidna	Jack Ding	protectorate	High Reclaimer1	NA	The High Reclaimer - WJ: +32	High Reclaimer1 (The High Reclaimer)	PW02	32
+Australia Echidna	Jack Ding	protectorate	Amon1	NA	High Allegiant Amon Ad-Raza - WJ: +29	Amon1 (High Allegiant Amon Ad-Raza)	PW05	29
+Australia Echidna	Tom Guan	circle	Kaya2	NA	Kaya the Moonhunter - WB: +24	Kaya2 (Kaya the Moonhunter & Laris)	OW12	24
+Australia Echidna	Tom Guan	circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Australia Echidna	Colin Hill	minions	Rask1 	NA	Rask - WB: +27	 Rask1 	IW10	27
+Australia Echidna	Colin Hill	minions	Calaban1	NA	Calaban - WB: +29	 Calaban1 (Calaban the Grave Walker)	IW03	29
+Australia Koala	Aaron Wale	cryx	Skarre1	NA	Pirate Queen Skarre - WJ: +28	Skarre1 (Pirate Queen Skarre)	CW03	28
+Australia Koala	Aaron Wale	cryx	Scaverous1	NA	Lord Exhumator Scaverous - WJ: +27	Scaverous1 (Lord Exhumator Scaverous)	CW09	27
+Australia Koala	Jeff Galea	retribution	Kaelyssa1	NA	Kaelyssa, The Night's Whisper - WJ: +29	 Kaelyssa1 (Kaelyssa Night's Whisper)	RW04	29
+Australia Koala	Jeff Galea	retribution	Helynna1	NA	Magister Helynna - WJ: +30	 Helynna1 (Magister Helynna)	RW09	30
+Australia Koala	David Potts	skorne	Xerxis1	NA	Tyrant Xerxis - WB: +28	 Xerxis1 (Tyrant Xerxis)	SW04	28
+Australia Koala	David Potts	skorne	Naaresh1	NA	Master Ascetic Naaresh - WB: +32	 Naaresh1 (Master Ascetic Naaresh)	SW08	32
+Australia Koala	Peter Bates	protectorate	Reznik2	NA	Servath Reznik, Wrath of Ages - WJ: +29	Reznik2 (Servath Reznik Wrath of Ages)	PW16	29
+Australia Koala	Peter Bates	protectorate	Severius2	NA	Hierarch Severius - WJ: +26	Severius2 (Hierarch Severius)	PW14	26
+Australia Koala	Josh Bates	cygnar	Caine2	NA	Captain Allister Caine - WJ: +27	Caine2 (Captain Allister Caine)	YW14	27
+Australia Koala	Josh Bates	cygnar	Haley3	NA	Major Prime Victoria Haley - WJ: +25	Haley3 (Major Prime Victoria Haley)	YW16	25
+Austria 1		retribution	Vyros2	NA	Vyros, Incissar of the Dawnguard [+27]	 Vyros2 (Vyros Incissar of the Dawnguard)	RW10	27
+Austria 1		retribution	Ossyan1	NA	Lord Arcanist Ossyan [+28]	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+Austria 1		convergence	Iron Mother Directrix	NA	Iron Mother Directrix [+27]	Iron Mother Directrix (Iron Mother Directrix & Exponent Servitors)	COCW03	27
+Austria 1		convergence	Lucant	NA	Father Lucant, Divinity Architect [+28]	Lucant (Father Lucant Divinity Architect)	COCW04	28
+Austria 1		skorne	Hexeris2	NA	Lord Arbiter Hexeris [+27]	 Hexeris2 (Lord Arbiter Hexeris)	SW12	27
+Austria 1		skorne	Naaresh1	NA	Master Ascetic Naaresh [+32]	 Naaresh1 (Master Ascetic Naaresh)	SW08	32
+Austria 1		khador	Vladimir3	NA	Vladimir Tzepesci, Great Prince of Umbrey [+27]	 Vladimir3 (Vladimir Tzepesci Great Prince of Umbrey)	KW17	27
+Austria 1		khador	Butcher3	NA	Kommander Zoktavir, The Butcher Unleashed [+22]	 Butcher3 (Kommander Zoktavir The Butcher Unleashed)	KW16	22
+Austria 1		cryx	Skarre1	NA	Pirate Queen Skarre [+28]	Skarre1 (Pirate Queen Skarre)	CW03	28
+Austria 1		cryx	Witch Coven	NA	The Witch Coven of Garlghast [+26]	Witch Coven (The Witch Coven of Garlghast & Egregore)	CW06	26
+Austria 2	Raghnath	khador	Butcher3	Arcane Wonder - Steamroller Objective	Kommander Zoktavir, the Butcher Unleashed - WJ: +22	 Butcher3 (Kommander Zoktavir The Butcher Unleashed)	KW16	22
+Austria 2	Raghnath	khador	Irusk2	Arcane Wonder - Steamroller Objective	Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Austria 2	JustDan	retribution	Ossyan1	NA	Lord Arcanist Ossyan - WJ: +28	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+Austria 2	JustDan	retribution	Vyros2	NA	Vyros, Incissar of the Dawnguard - WJ: +27	 Vyros2 (Vyros Incissar of the Dawnguard)	RW10	27
+Austria 2	DCM	cygnar	Darius1	NA	Captain E. Dominic Darius - WJ: +29	Darius1 (Captain E. Dominic Darius & Halfjacks)	YW07	29
+Austria 2	DCM	cygnar	Caine2	NA	Captain Allister Caine - WJ: +27	Caine2 (Captain Allister Caine)	YW14	27
+Austria 2	Snot	trollbloods	Calandra	NA	Calandra Truthsayer, Oracle of the Glimmerwood - WB: +27	Calandra (Calandra Truthsayer Oracle of the Glimmerwood)	TW06	27
+Austria 2	Snot	trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Austria 2	Mr.Wu	minions	Barnabas 1	NA	Bloody Barnabas - WB: +28	Barnabas 1 (Bloody Barnabas)	IW02	28
+Austria 2	Mr.Wu - Sturm&Drang1	minions	Sturm & Drang1 	NA	Sturm & Drang - WB: +28	 Sturm & Drang1 	IW06	28
+Belgium Prinzesschen		cygnar	Maddox1	NA	(Maddox 1) Major Beth Maddox [+30]	Maddox1 (Major Beth Maddox)	YW11	30
+Belgium Prinzesschen		cygnar	Haley3	NA	(Haley 3) Major Prime Victoria Haley [+25]	Haley3 (Major Prime Victoria Haley)	YW16	25
+Belgium Prinzesschen		retribution	Vyros2	NA	Vyros2 (Vyros Incissar of the Dawnguard) (-27 Pts.)	 Vyros2 (Vyros Incissar of the Dawnguard)	RW10	27
+Belgium Prinzesschen		retribution	Kaelyssa1	NA	Kaelyssa1 (Kaelyssa Night's Whisper) (-29 Pts.)	 Kaelyssa1 (Kaelyssa Night's Whisper)	RW04	29
+Belgium Prinzesschen		protectorate	Amon1	NA	(Amon 1) High Allegiant Amon Ad-Raza [+29]	Amon1 (High Allegiant Amon Ad-Raza)	PW05	29
+Belgium Prinzesschen		protectorate	High Reclaimer1	NA	(High Reclaimer 1) The High Reclaimer [+32]	High Reclaimer1 (The High Reclaimer)	PW02	32
+Belgium Prinzesschen		cygnar	Kara Sloan1	NA	Captain Kara Sloan - WJ: +28	Kara Sloan1 (Captain Kara Sloan)	YW08	28
+Belgium Prinzesschen		cygnar	Haley2	NA	Major Victoria Haley - WJ: +25	Haley2 (Major Victoria Haley)	YW12	25
+Belgium Prinzesschen		trollbloods	Ragnor	NA	Ragnor Skysplitter, the Runemaster - WB: +30	Ragnor (Ragnor Skysplitter The Runemaster)	TW09	30
+Belgium Prinzesschen		trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Belgium Victorious		cryx	Skarre2	NA	Skarre, Queen of the Broken Coast - WJ: +26	Skarre2 (Skarre, Queen of the Broken Coast)	CW14	26
+Belgium Victorious		cryx	Scaverous1	NA	Lord Exhumator Scaverous - WJ: +27	Scaverous1 (Lord Exhumator Scaverous)	CW09	27
+Belgium Victorious		khador	Sorscha1	NA	Kommander Sorscha - WJ: +29	 Sorscha1 (Kommander Sorscha)	KW02	29
+Belgium Victorious		khador	Irusk1	NA	Kommandant Irusk - WJ: +27	 Irusk1 (Kommandant Irusk)	KW04	27
+Belgium Victorious		legion	Lylyth3	NA	Lylyth, Reckoning of Everblight - WB: +29	Lylyth3 (Lylyth Reckoning of Everblight)	EW14	29
+Belgium Victorious		legion	Kallus1	NA	Kallus, Wrath of Everblight - WB: +30	Kallus1 (Kallus Wrath of Everblight)	EW08	30
+Belgium Victorious		khador	Irusk2	NA	Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Belgium Victorious		khador	Vladimir1	NA	Vladimir Tzepesci, The Dark Prince - WJ: +28	 Vladimir1 (Vladimir Tzepesci The Dark Prince)	KW03	28
+Belgium Victorious		mercenaries	Magnus2	NA	Magnus the Warlord - WJ: +28	Magnus2 (Magnus the Warlord)	MW13	28
+Belgium Victorious		mercenaries	Ossrum1	NA	General Ossrum - WJ: +28	Ossrum1 (General Ossrum)	MW10	28
+Canada Goose	David Beauchamp - Captain	retribution	Kaelyssa1	NA	Kaelyssa, The Night's Whisper - WJ: +29	 Kaelyssa1 (Kaelyssa Night's Whisper)	RW04	29
+Canada Goose	David Beauchamp - Captain	retribution	Ossyan1	NA	Lord Arcanist Ossyan - WJ: +28	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+Canada Goose	Bubba Dalton	khador	Irusk2	NA	Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Canada Goose	Bubba Dalton	khador	Karchev1	NA	Karchev the Terrible - WJ: +30	 Karchev1 (Karchev the Terrible)	KW05	30
+Canada Goose	Chandler Davidson	protectorate	Kreoss3	NA	Intercessor Kreoss - WJ: +28	Kreoss3 (Intercessor Kreoss)	PW17	28
+Canada Goose	Chandler Davidson	protectorate	Severius2	NA	Hierarch Severius - WJ: +26	Severius2 (Hierarch Severius)	PW14	26
+Canada Goose	Tim Fung	circle	Tanith1	NA	Tanith the Feral Song - WB: +31	Tanith1 (Tanith the Feral Song)	OW15	31
+Canada Goose	Tim Fung	circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Canada Goose	Chris Orr	legion	Lylyth3	NA	Lylyth, Reckoning of Everblight - WB: +29	Lylyth3 (Lylyth Reckoning of Everblight)	EW14	29
+Canada Goose	Chris Orr	legion	Kallus1	NA	Kallus, Wrath of Everblight - WB: +30	Kallus1 (Kallus Wrath of Everblight)	EW08	30
+Canada Moose	Josh Richter 1	retribution	Ossyan1	NA	Lord Arcanist Ossyan - WJ: +28	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+Canada Moose	Josh Richter 1	retribution	Vyros2	NA	Vyros, Incissar of the Dawnguard - WJ: +27	 Vyros2 (Vyros Incissar of the Dawnguard)	RW10	27
+Canada Moose	RJ Marchant 1	legion	Saeryn2 & Rhyas2	NA	Saeryn & Rhyas, Talons of Everblight - WB: +24	Saeryn2 & Rhyas2 (Saeryn & Rhyas Talons of Everblight)	EW09	24
+Canada Moose	RJ Marchant 1	legion	Lylyth3	NA	Lylyth, Reckoning of Everblight - WB: +29	Lylyth3 (Lylyth Reckoning of Everblight)	EW14	29
+Canada Moose	Jeff Everitt 1	khador	Butcher1	NA	Orsus Zoktavir, The Butcher of Khardov - WJ: +28	 Butcher1 (Orsus Zoktavir The Butcher of Khardov)	KW01	28
+Canada Moose	Jeff Everitt 1	khador	Irusk2	NA	Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Canada Moose	Cory Doyle 1	protectorate	Kreoss3	NA	Intercessor Kreoss - WJ: +28	Kreoss3 (Intercessor Kreoss)	PW17	28
+Canada Moose	Cory Doyle 1	protectorate	Severius2	NA	Hierarch Severius - WJ: +26	Severius2 (Hierarch Severius)	PW14	26
+Canada Moose	Dustin Mcwhirter 1	cygnar	Haley1	NA	Captain Victoria Haley - WJ: +28	Haley1 (Captain Victoria Haley)	YW01	28
+Canada Moose	Dustin Mcwhirter 1	cygnar	Stryker2	NA	Lord Commander Stryker - WJ: +28	Stryker2 (Lord Commander Stryker)	YW13	28
+China Egg Roll	1 He Jiang (Joey) - Trollbloods	trollbloods	Calandra	NA	Calandra Truthsayer, Oracle of the Glimmerwood - WB: +27	Calandra (Calandra Truthsayer Oracle of the Glimmerwood)	TW06	27
+China Egg Roll	1 He Jiang (Joey) - Trollbloods	trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+China Egg Roll	2 Chen Ge (Gary) – Protectorate of Menoth	protectorate	Amon1	NA	High Allegiant Amon Ad-Raza - WJ: +29	Amon1 (High Allegiant Amon Ad-Raza)	PW05	29
+China Egg Roll	2 Chen Ge (Gary) – Protectorate of Menoth	protectorate	High Reclaimer1	NA	The High Reclaimer - WJ: +32	High Reclaimer1 (The High Reclaimer)	PW02	32
+China Egg Roll	3 Guanbo Liu(Jack) - Cryx	cryx	Deneghra1	NA	Warwitch Deneghra - WJ: +28	Deneghra1 (Warwitch Deneghra)	CW02	28
+China Egg Roll	3 Guanbo Liu(Jack) - Cryx	cryx	Asphyxious3	NA	Asphyxious the Hellbringer - WJ: +24	Asphyxious3 (Asphyxious the Hellbringer & Vociferon)	CW16	24
+China Egg Roll	4 Luke Pollard (Team Captain) Circle Orboros	circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+China Egg Roll	4 Luke Pollard (Team Captain) Circle Orboros	circle	Kromac2	NA	Kromac, Champion of the Wurm - WB: +28	Kromac2 (Kromac Champion of the Wurm)	OW10	28
+China Egg Roll	5 Jason Mcleod - Minions	minions	Arkadius1	NA	Dr. Arkadius - WB: +32	 Arkadius1 (Dr. Arkadius)	IW04	32
+China Egg Roll	5 Jason Mcleod - Minions	minions	Carver1	NA	Lord Carver, BMMD, Esq. III - WB: +28	Carver1 (Lord Carver BMMD Esq. III)	IW01	28
+China Baizhan	WEI JIN "PLANESWALKER"	khador	Karchev1	Arcane Wonder - Steamroller Objective	Karchev the Terrible - WJ: +30	 Karchev1 (Karchev the Terrible)	KW05	30
+China Baizhan	WEI JIN "PLANESWALKER"	khador	Irusk1	NA	Kommandant Irusk - WJ: +27	 Irusk1 (Kommandant Irusk)	KW04	27
+China Baizhan	YANG SONG (CAPTAIN)	retribution	Kaelyssa1	NA	Kaelyssa, The Night's Whisper - WJ: +29	 Kaelyssa1 (Kaelyssa Night's Whisper)	RW04	29
+China Baizhan	YANG SONG (CAPTAIN)	retribution	Ossyan1	NA	Lord Arcanist Ossyan - WJ: +28	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+China Baizhan	LEI	legion	Lylyth3	NA	Lylyth, Reckoning of Everblight - WB: +29	Lylyth3 (Lylyth Reckoning of Everblight)	EW14	29
+China Baizhan	LEI	legion	Absylonia2	NA	Absylonia, Daughter of Everblight - WB: +28	Absylonia2 (Absylonia Daughter of Everblight)	EW13	28
+China Baizhan	GUA	trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+China Baizhan	GUA	trollbloods	Calandra	NA	Calandra Truthsayer, Oracle of the Glimmerwood - WB: +27	Calandra (Calandra Truthsayer Oracle of the Glimmerwood)	TW06	27
+China Baizhan	YOUWEI WU	convergence	Axis	NA	Axis, The Harmonic Enforcer - WJ: +30	Axis (Axis the Harmonic Enforcer)	COCW02	30
+China Baizhan	YOUWEI WU	convergence	Lucant	NA	Father Lucant, The Divinity Architect - WJ: +28	Lucant (Father Lucant Divinity Architect)	COCW04	28
+Czech Rep White	Lists	trollbloods	Hoarluk2	Arcane Wonder - Steamroller Objective	Hoarluk Doomshaper, Rage of Dhunia - WB: +27	Hoarluk2 (Hoarluk Doomshaper Rage of Dhunia)	TW11	27
+Czech Rep White	Lists	trollbloods	Gunnbjorn	Arcane Wonder - Steamroller Objective	Captain Gunnbjorn - WB: +28	Gunnbjorn (Captain Gunnbjorn)	TW07	28
+Czech Rep White		circle	Wurmwood1	Arcane Wonder - Steamroller Objective	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Czech Rep White		circle	Krueger2	Arcane Wonder - Steamroller Objective	Krueger the Stormlord - WB: +27	Krueger2 (Krueger the Stormlord)	OW13	27
+Czech Rep White		legion	Lylyth3	Arcane Wonder - Steamroller Objective	Lylyth, Reckoning of Everblight - WB: +29	Lylyth3 (Lylyth Reckoning of Everblight)	EW14	29
+Czech Rep White		legion	Absylonia2	Arcane Wonder - Steamroller Objective	Absylonia, Daughter of Everblight - WB: +28	Absylonia2 (Absylonia Daughter of Everblight)	EW13	28
+Czech Rep White		cygnar	Haley1	NA	Captain Victoria Haley - WJ: +28	Haley1 (Captain Victoria Haley)	YW01	28
+Czech Rep White		cygnar	Haley3	NA	Major Prime Victoria Haley - WJ: +25	Haley3 (Major Prime Victoria Haley)	YW16	25
+Czech Rep White		khador	Butcher3	NA	Kommander Zoktavir, the Butcher Unleashed - WJ: +22	 Butcher3 (Kommander Zoktavir The Butcher Unleashed)	KW16	22
+Czech Rep White		khador	Irusk2	NA	Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Czech Rep Red	(C) Daniel Bogdanoski - Khador	khador	Irusk2	Arcane Wonder - Steamroller Objective	Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Czech Rep Red	(C) Daniel Bogdanoski - Khador	khador	Vladimir2	Arcane Wonder - Steamroller Objective	Vladimir Tzepesci, The Dark Champion - WJ: +27	 Vladimir2 (Vladimir Tzepesci The Dark Champion)	KW13	27
+Czech Rep Red	Lukáš Maršík - Trollbloods	trollbloods	Hoarluk2	Arcane Wonder - Steamroller Objective	Hoarluk Doomshaper, Rage of Dhunia - WB: +27	Hoarluk2 (Hoarluk Doomshaper Rage of Dhunia)	TW11	27
+Czech Rep Red	Lukáš Maršík - Trollbloods	trollbloods	Madrak2	Arcane Wonder - Steamroller Objective	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Czech Rep Red	Adam Tuma – Protectorate of Menoth	protectorate	Severius2	Arcane Wonder - Steamroller Objective	(Severius 2) Hierarch Severius [+26]	Severius2 (Hierarch Severius)	PW14	26
+Czech Rep Red	Adam Tuma – Protectorate of Menoth	protectorate	Kreoss1	NA	(Kreoss 1) High Exemplar Kreoss [+29]	Kreoss1 (High Exemplar Kreoss)	PW01	29
+Czech Rep Red	Michal Dzurenda – Retribution of Scyrah	retribution	Kaelyssa1	NA	(Kaelyssa 1) Kaelyssa, the Night's Whisper [+29]	 Kaelyssa1 (Kaelyssa Night's Whisper)	RW04	29
+Czech Rep Red	Michal Dzurenda – Retribution of Scyrah	retribution	Issyria1	NA	(Issyria 1) Issyria, Sibyl of Dawn [+29]	 Issyria1 (Issyria Sibyl of Dawn)	RW07	29
+Czech Rep Red	Tomáš Pešták – Cryx	cryx	Asphyxious3	NA	(Asphyxious 3) Asphyxious the Hellbringer [+24]	Asphyxious3 (Asphyxious the Hellbringer & Vociferon)	CW16	24
+Czech Rep Red	Tomáš Pešták – Cryx	cryx	Skarre2	NA	(Skarre 2) Skarre, Queen of the Broken Coast [+26]	Skarre2 (Skarre, Queen of the Broken Coast)	CW14	26
+Denmark Asgaard	Peter Bom Jensen	circle	Wurmwood1	Arcane Wonder - Steamroller Objective	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Denmark Asgaard	Peter Bom Jensen	circle	Baldur2	NA	Baldur the Stonesoul - WB: +30	Baldur2 (Baldur the Stonesoul)	OW11	30
+Denmark Asgaard	Marc Nielsen	protectorate	High Reclaimer1	NA	The High Reclaimer - WJ: +32	High Reclaimer1 (The High Reclaimer)	PW02	32
+Denmark Asgaard	Marc Nielsen	protectorate	Severius2	NA	Hierarch Severius - WJ: +26	Severius2 (Hierarch Severius)	PW14	26
+Denmark Asgaard	Nikolaj Ulf	khador	Irusk2	NA	Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Denmark Asgaard	Nikolaj Ulf	khador	Vladimir1	NA	Vladimir Tzepesci, The Dark Prince - WJ: +28	 Vladimir1 (Vladimir Tzepesci The Dark Prince)	KW03	28
+Denmark Asgaard	Frederik Munch:	mercenaries	Bartolo1 	NA	Captain Bartolo Montador - WJ: +26	Bartolo1  (Captain Bartolo Montador)	MW06	26
+Denmark Asgaard	Frederik Munch:	mercenaries	Gorten1	NA	Gorten Grundback - WJ: +31	Gorten1 (Gorten Grundback)	MW02	31
+Denmark Asgaard	Sebastian Kaas Petersen	legion	Absylonia2	NA	 Absylonia, Daughter of Everblight - WB: +28 	Absylonia2 (Absylonia Daughter of Everblight)	EW13	28
+Denmark Asgaard	Sebastian Kaas Petersen	legion	Vayl2	NA	 Vayl, Consul of Everblight - WB: +28	Vayl2 (Vayl Consul of Everblight)	EW12	28
+Denmark Jotunheim	Søren	cygnar	Stryker2	NA	Lord Commander Stryker - WJ: +28	Stryker2 (Lord Commander Stryker)	YW13	28
+Denmark Jotunheim	Søren	cygnar	Haley2	NA	Major Victoria Haley - WJ: +25	Haley2 (Major Victoria Haley)	YW12	25
+Denmark Jotunheim	Benjamin	retribution	Ossyan1	NA	Lord Arcanist Ossyan - WJ: +28	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+Denmark Jotunheim	Benjamin	retribution	Helynna1	NA	Magister Helynna - WJ: +30	 Helynna1 (Magister Helynna)	RW09	30
+Denmark Jotunheim	Mikkel	khador	Vladimir2	NA	Vladimir Tzepesci, The Dark Champion - WJ: +27	 Vladimir2 (Vladimir Tzepesci The Dark Champion)	KW13	27
+Denmark Jotunheim	Mikkel	khador	Karchev1	NA	Karchev the Terrible - WJ: +30	 Karchev1 (Karchev the Terrible)	KW05	30
+Denmark Jotunheim	Simon	protectorate	Severius2	NA	Hierarch Severius - WJ: +26	Severius2 (Hierarch Severius)	PW14	26
+Denmark Jotunheim	Simon	protectorate	Malekus1	NA	Malekus, the Burning Truth - WJ: +30	Malekus1 (Malekus The Burning Truth)	PW11	30
+Denmark Jotunheim	Jan	cryx	Goreshade1	NA	Goreshade the Bastard - WJ: +27	Goreshade1 (Goreshade the Bastard)	CW05	27
+Denmark Jotunheim	Jan	cryx	Scaverous1	NA	Lord Exhumator Scaverous - WJ: +27	Scaverous1 (Lord Exhumator Scaverous)	CW09	27
+England Roses	Jim Gradwell - Captain - Circle Orboros - eBaldur: 75 / 75	circle	Baldur2	NA	Baldur the Stonesoul - WB: +30	Baldur2 (Baldur the Stonesoul)	OW11	30
+England Roses	Jim Gradwell - Captain - Circle Orboros - eBaldur: 75 / 75	circle	Tanith1	NA	Tanith the Feral Song - WB: +31	Tanith1 (Tanith the Feral Song)	OW15	31
+England Roses	Jun Chan - Retribution of Scyrah - Issyria: 75 / 75	retribution	Issyria1	NA	Issyria, Sibyl of Dawn - WJ: +29	 Issyria1 (Issyria Sibyl of Dawn)	RW07	29
+England Roses	Jun Chan - Retribution of Scyrah - Issyria: 75 / 75	retribution	Vyros2	NA	Vyros, Incissar of the Dawnguard - WJ: +27	 Vyros2 (Vyros Incissar of the Dawnguard)	RW10	27
+England Roses	Ryan Evans - Cryx - Coven: 75 / 75 Army	cryx	Witch Coven	NA	The Witch Coven of Garlghast - WJ: +26	Witch Coven (The Witch Coven of Garlghast & Egregore)	CW06	26
+England Roses	Ryan Evans - Cryx - Coven: 75 / 75 Army	cryx	Deneghra1	NA	Warwitch Deneghra - WJ: +28	Deneghra1 (Warwitch Deneghra)	CW02	28
+England Roses	Phil Shaw - Khador - eVlad: 71 / 75 Army	khador	Vladimir2	NA	Vladimir Tzepesci, The Dark Champion - WJ: +27	 Vladimir2 (Vladimir Tzepesci The Dark Champion)	KW13	27
+England Roses	Phil Shaw - Khador - eVlad: 71 / 75 Army	khador	Vladimir1	NA	Vladimir Tzepesci, The Dark Prince - WJ: +28	 Vladimir1 (Vladimir Tzepesci The Dark Prince)	KW03	28
+England Roses	Toby Nathan - Trollblood - Madrak: 75 / 75 Army	trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+England Roses	Toby Nathan - Trollblood - Madrak: 75 / 75 Army	trollbloods	Ragnor	NA	Ragnor Skysplitter, the Runemaster - WB: +30	Ragnor (Ragnor Skysplitter The Runemaster)	TW09	30
+England Lions	Dom Leedham	cygnar	Haley2	Stryker2 - WB: +28 - Arcane Wonder	Major Victoria Haley - WJ: +25 - Fuel Cache	Haley2 (Major Victoria Haley)	YW12	25
+England Lions	Dom Leedham	cygnar	Caine2	NA	Captain Allister Caine - WJ: +27 - Fuel Cache	Caine2 (Captain Allister Caine)	YW14	27
+England Lions	Brett Wilkie	circle	Baldur1	NA	Baldur the Stonecleaver - WB: +31 - Bunker	Baldur1 (Baldur the Stonecleaver)	OW03	31
+England Lions	Brett Wilkie	circle	Baldur2	NA	Baldur the Stonesoul - WB: +30 - Bunker	Baldur2 (Baldur the Stonesoul)	OW11	30
+England Lions	Ben diBosdari	convergence	Iron Mother Directrix	NA	Iron Mother Directrix & Exponent Servitors - WJ: +27 - Bunker	Iron Mother Directrix (Iron Mother Directrix & Exponent Servitors)	COCW03	27
+England Lions	Ben diBosdari	convergence	Lucant	NA	Father Lucant, The Divinity Architect - WJ: +28 - Bunker	Lucant (Father Lucant Divinity Architect)	COCW04	28
+England Lions	Matt Goligher	trollbloods	Ragnor	NA	Ragnor Skysplitter - WB: +30 - Effigy of Valour	Ragnor (Ragnor Skysplitter The Runemaster)	TW09	30
+England Lions	Matt Goligher	trollbloods	Grim2	NA	Hunters Grim - WB: +25 - Effigy of Valour	Grim2 (Hunters Grim)	TW13	25
+England Lions	Nathan Hoole	cygnar	Brisbane1	NA	Siege Brisbane - WB: +28 - Bunker	Brisbane1 (Major Markus 'Siege' Brisbane)	YW05	28
+England Lions	Nathan Hoole	cygnar	Stryker2	NA	Stryker2 - WB: +28 - Arcane Wonder	Stryker2 (Lord Commander Stryker)	YW13	28
+England Knights	Chris Murdoch (Mercenaries, Captain)	mercenaries	Gorten1	NA	Gorten Grundback - WJ: +31	Gorten1 (Gorten Grundback)	MW02	31
+England Knights	Chris Murdoch (Mercenaries, Captain)	mercenaries	MacBain1	NA	Drake MacBain - WJ: +30	MacBain1 (Drake MacBain)	MW08	30
+England Knights	Andy McBirnie (Cryx)	cryx	Witch Coven	NA	The Witch Coven of Garlghast - WJ: +26	Witch Coven (The Witch Coven of Garlghast & Egregore)	CW06	26
+England Knights	Andy McBirnie (Cryx)	cryx	Skarre2	NA	Skarre, Queen of the Broken Coast - WJ: +26	Skarre2 (Skarre, Queen of the Broken Coast)	CW14	26
+England Knights	Andrew Kenny (Trolls)	trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+England Knights	Andrew Kenny (Trolls)	trollbloods	Ragnor	NA	Ragnor Skysplitter, the Runemaster - WB: +30	Ragnor (Ragnor Skysplitter The Runemaster)	TW09	30
+England Knights	Andy Garrard (Trolls)	trollbloods	Grissel2	NA	Grissel Bloodsong, Marshal of the Kriels - WB: +27	Grissel2 (Grissel Bloodsong Marshal of the Kriels)	TW12	27
+England Knights	Andy Garrard (Trolls)	trollbloods	Grim2	NA	Hunters Grim - WB: +25	Grim2 (Hunters Grim)	TW13	25
+England Knights	Jamie Cooke-Rogers (Legion)	legion	Lylyth3	NA	Lylyth, Reckoning of Everblight - WB: +29	Lylyth3 (Lylyth Reckoning of Everblight)	EW14	29
+England Knights	Jamie Cooke-Rogers (Legion)	legion	Kallus1	NA	Kallus, Wrath of Everblight - WB: +30	Kallus1 (Kallus Wrath of Everblight)	EW08	30
+Finland Väinämöinen	Jaakko Uusitupa (captain)	cygnar	Haley1	Objective:  Arcane Wonder	Captain Victoria Haley - WJ: +28	Haley1 (Captain Victoria Haley)	YW01	28
+Finland Väinämöinen	Jaakko Uusitupa (captain)	cygnar	Haley2	NA	Major Victoria Haley - WJ: +25	Haley2 (Major Victoria Haley)	YW12	25
+Finland Väinämöinen	Tatu Purhonen	circle	Kromac2	NA	Kromac, Champion of the Wurm - WB: +28	Kromac2 (Kromac Champion of the Wurm)	OW10	28
+Finland Väinämöinen	Tatu Purhonen	circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Finland Väinämöinen	Pauli Lehtoranta	minions	Rask1 	NA	Rask - WB: +27	 Rask1 	IW10	27
+Finland Väinämöinen	Pauli Lehtoranta	minions	Arkadius1	NA	Dr. Arkadius - WB: +32	 Arkadius1 (Dr. Arkadius)	IW04	32
+Finland Väinämöinen	Tero Särkijärvi	cryx	Goreshade2	NA	Goreshade the Cursed - WJ: +28	Goreshade2 (Goreshade the Cursed)	CW15	27
+Finland Väinämöinen	Tero Särkijärvi	cryx	Goreshade1	NA	Goreshade the Bastard - WJ: +27	Goreshade1 (Goreshade the Bastard)	CW05	27
+Finland Väinämöinen	Mikko Heinola	protectorate	Amon1	NA	High Allegiant Amon Ad-Raza WJ:+29	Amon1 (High Allegiant Amon Ad-Raza)	PW05	29
+Finland Väinämöinen	Mikko Heinola	protectorate	Severius2	NA	Hierarch Severius WJ:+26pts	Severius2 (Hierarch Severius)	PW14	26
+Finland Ilmarinen	Teemu Aro	khador	Vladimir2	NA	(Vladimir 2) Vladimir Tzepesci, The Dark Champion [+27]	 Vladimir2 (Vladimir Tzepesci The Dark Champion)	KW13	27
+Finland Ilmarinen	Teemu Aro	khador	Harkevich1	NA	(Harkevich 1) Kommander Harkevich, The Iron Wolf [+28]	 Harkevich1 (Kommander Harkevich The Iron Wolf )	KW09	28
+Finland Ilmarinen	Teppo Aro	cygnar	Nemo3	NA	(Nemo 3) Artificer General Nemo [+25]	Nemo3 (Artificer General Nemo & Storm Chaser Adept Finch)	YW18	25
+Finland Ilmarinen	Teppo Aro	cygnar	Darius1	NA	(Darius 1) Captain E. Dominic Darius [+29]	Darius1 (Captain E. Dominic Darius & Halfjacks)	YW07	29
+Finland Ilmarinen	Hermanni Raatevaara	khador	Irusk2	NA	(Irusk 2) Supreme Kommandant Irusk [+27]	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Finland Ilmarinen	Hermanni Raatevaara	khador	Karchev1	NA	(Karchev 1) Karchev the Terrible [+30]	 Karchev1 (Karchev the Terrible)	KW05	30
+Finland Ilmarinen	Samu Järvinen	circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Finland Ilmarinen	Samu Järvinen	circle	Baldur2	NA	Baldur the Stonesoul - WB: +30	Baldur2 (Baldur the Stonesoul)	OW11	30
+Finland Ilmarinen	Iiro Järvenpää	skorne	Rasheth1	NA	Dominar Rasheth - WB: +28	 Rasheth1 (Dominar Rasheth)	SW07	28
+Finland Ilmarinen	Iiro Järvenpää	skorne	Zaal1	NA	Supreme Aptimus Zaal - WB: +26	 Zaal1 (Supreme Aptimus Zaal & Kovaas)	SW05	26
+Finland Joukahainen	Jani Kautto	protectorate	Amon1	Arcane Wonder - Steamroller Objective	High Allegiant Amon Ad-Raza - WJ: +29	Amon1 (High Allegiant Amon Ad-Raza)	PW05	29
+Finland Joukahainen	Jani Kautto	protectorate	Thyra1	NA	Thyra, Flame of Sorrow - WJ: +29	Thyra1 (Thyra Flame of Sorrow)	PW09	29
+Finland Joukahainen	Tuomas Toimela	skorne	Rasheth1	NA	Dominar Rasheth - WB: +28	 Rasheth1 (Dominar Rasheth)	SW07	28
+Finland Joukahainen	Tuomas Toimela	skorne	Xerxis1	NA	Tyrant Xerxis - WB: +28	 Xerxis1 (Tyrant Xerxis)	SW04	28
+Finland Joukahainen	Antti Jussila	mercenaries	Thexus1	NA	Exulon Thexus - WJ: +29	Thexus1 (Exulon Thexus)	MW11	29
+Finland Joukahainen	Antti Jussila	mercenaries	Magnus2	NA	Magnus the Warlord - WJ: +28	Magnus2 (Magnus the Warlord)	MW13	28
+Finland Joukahainen	Joonas Heinonen	convergence	Iron Mother Directrix	NA	Iron Mother Directrix & Exponent Servitors - WJ: +27	Iron Mother Directrix (Iron Mother Directrix & Exponent Servitors)	COCW03	27
+Finland Joukahainen	Joonas Heinonen	convergence	Axis	NA	Axis, The Harmonic Enforcer - WJ: +30	Axis (Axis the Harmonic Enforcer)	COCW02	30
+Finland Joukahainen	Jarkko Vähämaa	circle	Kromac2	NA	Kromac, Champion of the Wurm - WB: +28	Kromac2 (Kromac Champion of the Wurm)	OW10	28
+Finland Joukahainen	Jarkko Vähämaa	circle	Baldur2	NA	Baldur the Stonesoul - WB: +30	Baldur2 (Baldur the Stonesoul)	OW11	30
+France Asterix	Julien Dupoirieux Gamin - Captain	circle	Baldur2	Arcane Wonder (Steamroller) [0]	(Baldur 2) Baldur the Stonesoul [+30]	Baldur2 (Baldur the Stonesoul)	OW11	30
+France Asterix	Julien Dupoirieux Gamin - Captain	circle	Tanith1	Arcane Wonder (Steamroller) [0]	(Tanith 1) Tanith the Feral Song [+31]	Tanith1 (Tanith the Feral Song)	OW15	31
+France Asterix	Pierre Arnauld de Seze Connetable	khador	Butcher3	NA	(Butcher 3) Kommander Zoktavir, The Butcher Unleashed [+22]	 Butcher3 (Kommander Zoktavir The Butcher Unleashed)	KW16	22
+France Asterix	Pierre Arnauld de Seze Connetable	khador	Harkevich1	NA	(Harkevich 1) Kommander Harkevich, The Iron Wolf [+28]	 Harkevich1 (Kommander Harkevich The Iron Wolf )	KW09	28
+France Asterix	Victor Pons Tec	trollbloods	Madrak2	NA	(Madrak 2) Madrak Ironhide, World Ender [+28]	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+France Asterix	Victor Pons Tec	trollbloods	Calandra	NA	(Calandra 1) Calandra Truthsayer, Oracle of the Glimmerwood [+27]	Calandra (Calandra Truthsayer Oracle of the Glimmerwood)	TW06	27
+France Asterix	Antoine Granet Tza	circle	Wurmwood1	NA	(Wurmwood 1) Wurmwood, Tree of Fate [+27]	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+France Asterix	Antoine Granet Tza	circle	Morvahna2	NA	(Morvahna 2) Morvahna the Dawnshadow [+27]	Morvahna2 (Morvahna the Dawnshadow)	OW14	27
+France Asterix	Matthieu Vega Mouskapet	cryx	Scaverous1	NA	(Scaverous 1) Lord Exhumator Scaverous [+27]	Scaverous1 (Lord Exhumator Scaverous)	CW09	27
+France Asterix	Matthieu Vega Mouskapet	cryx	Skarre1	NA	(Skarre 1) Pirate Queen Skarre [+28]	Skarre1 (Pirate Queen Skarre)	CW03	28
+France Obelix	Baptiste "Feyall" Schmittlin	protectorate	High Reclaimer1	NA	The High Reclaimer - WJ: +32	High Reclaimer1 (The High Reclaimer)	PW02	32
+France Obelix	Baptiste "Feyall" Schmittlin	protectorate	Severius2	NA	Hierarch Severius - WJ: +26	Severius2 (Hierarch Severius)	PW14	26
+France Obelix	Kevin "Dibbouk" Aourragh	cryx	Scaverous1	NA	Lord Exhumator Scaverous - WJ: +27	Scaverous1 (Lord Exhumator Scaverous)	CW09	27
+France Obelix	Kevin "Dibbouk" Aourragh	cryx	Skarre1	NA	Pirate Queen Skarre - WJ: +28	Skarre1 (Pirate Queen Skarre)	CW03	28
+France Obelix	Adrien "Lucifell" Cahier	khador	Harkevich1	NA	Kommander Harkevich, The Iron Wolf - WJ: +28	 Harkevich1 (Kommander Harkevich The Iron Wolf )	KW09	28
+France Obelix	Adrien "Lucifell" Cahier	khador	Irusk2	NA	Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+France Obelix	Kévin "Kevina" Maeder	legion	Thagrosh1	NA	Thagrosh, Prophet of Everblight - WB: +28	Thagrosh1 (Thagrosh Prophet of Everblight)	EW02	28
+France Obelix	Kévin "Kevina" Maeder	legion	Rhyas1	NA	Rhyas, Sigil of Everblight - WB: +30	Rhyas1 (Rhyas Sigil of Everblight)	EW04	30
+France Obelix	Alexandre "Cheveu" Maiffret	circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+France Obelix	Alexandre "Cheveu" Maiffret	circle	Grayle1	NA	Grayle the Farstrider - WB: +29	Grayle1 (Grayle the Farstrider)	OW08	29
+Germany Gold	Christopher Müller	protectorate	High Reclaimer1	NA	The High Reclaimer - WJ: +32	High Reclaimer1 (The High Reclaimer)	PW02	32
+Germany Gold	Christopher Müller	protectorate	Severius2	NA	Hierarch Severius - WJ: +26	Severius2 (Hierarch Severius)	PW14	26
+Germany Gold	Christian Metz	khador	Vladimir1	NA	Vladimir Tzepesci, The Dark Prince - WJ: +28	 Vladimir1 (Vladimir Tzepesci The Dark Prince)	KW03	28
+Germany Gold	Christian Metz	khador	Harkevich1	NA	Kommander Harkevich, The Iron Wolf - WJ: +28	 Harkevich1 (Kommander Harkevich The Iron Wolf )	KW09	28
+Germany Gold	Bernhard Fischer	circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Germany Gold	Bernhard Fischer	circle	Kaya2	NA	Kaya the Moonhunter - WB: +24	Kaya2 (Kaya the Moonhunter & Laris)	OW12	24
+Germany Gold	Moritz Gatt	protectorate	Kreoss1	NA	High Exemplar Kreoss - WJ: +29	Kreoss1 (High Exemplar Kreoss)	PW01	29
+Germany Gold	Moritz Gatt	protectorate	Amon1	NA	High Allegiant Amon Ad-Raza - WJ: +29	Amon1 (High Allegiant Amon Ad-Raza)	PW05	29
+Germany Gold	Philipp Schaper	retribution	Ravyn1	NA	Ravyn, The Eternal Light - WJ: +30	 Ravyn1 (Ravyn Eternal Light)	RW05	30
+Germany Gold	Philipp Schaper	retribution	Vyros2	NA	Vyros, Incissar of the Dawnguard - WJ: +27	 Vyros2 (Vyros Incissar of the Dawnguard)	RW10	27
+Germany Red	Hinnerk Fischer	protectorate	Severius2	NA	Hierarch Severius - WJ: +26	Severius2 (Hierarch Severius)	PW14	26
+Germany Red	Hinnerk Fischer	protectorate	Thyra1	NA	Thyra, Flame of Sorrow - WJ: +29	Thyra1 (Thyra Flame of Sorrow)	PW09	29
+Germany Red	Florian Platte	protectorate	Amon1	NA	High Allegiant Amon Ad-Raza - WJ: +29	Amon1 (High Allegiant Amon Ad-Raza)	PW05	29
+Germany Red	Florian Platte	protectorate	High Reclaimer1	NA	The High Reclaimer - WJ: +32	High Reclaimer1 (The High Reclaimer)	PW02	32
+Germany Red	Alfredo Virgillito	trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Germany Red	Alfredo Virgillito	trollbloods	Hoarluk2	NA	Hoarluk Doomshaper, Rage of Dhunia - WB: +27	Hoarluk2 (Hoarluk Doomshaper Rage of Dhunia)	TW11	27
+Germany Red	Martin Huf	legion	Vayl2	NA	Vayl, Consul of Everblight - WB: +28	Vayl2 (Vayl Consul of Everblight)	EW12	28
+Germany Red	Martin Huf	legion	Kallus1	NA	Kallus, Wrath of Everblight - WB: +30	Kallus1 (Kallus Wrath of Everblight)	EW08	30
+Germany Red	Niels Pecherz	retribution	Vyros2	NA	Vyros, Incissar of the Dawnguard - WJ: +27	 Vyros2 (Vyros Incissar of the Dawnguard)	RW10	27
+Germany Red	Niels Pecherz	retribution	Ossyan1	NA	Lord Arcanist Ossyan - WJ: +28	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+Germany Black	Ben Füzi: Haley2+Kara Sloan	cygnar	Haley2	NA	Haley2 (Major Victoria Haley)(-25 Pts.)	Haley2 (Major Victoria Haley)	YW12	25
+Germany Black	Ben Füzi: Haley2+Kara Sloan	cygnar	Kara Sloan1	NA	Kara Sloan1 (Captain Kara Sloan) (-28 Pts.)	Kara Sloan1 (Captain Kara Sloan)	YW08	28
+Germany Black	Dominik de Cassan: Axis+Iron Mother	convergence	Axis	NA	Axis, The Harmonic Enforcer - WJ: +30	Axis (Axis the Harmonic Enforcer)	COCW02	30
+Germany Black	Dominik de Cassan: Axis+Iron Mother	convergence	Iron Mother Directrix	NA	Iron Mother Directrix & Exponent Servitors - WJ: +27	Iron Mother Directrix (Iron Mother Directrix & Exponent Servitors)	COCW03	27
+Germany Black	Sascha Maisel: Reclaimer+Testament	protectorate	High Reclaimer1	NA	The High Reclaimer (-32 Pts.)	High Reclaimer1 (The High Reclaimer)	PW02	32
+Germany Black	Sascha Maisel: Reclaimer+Testament	protectorate	High Reclaimer2	NA	The Testament of Menoth (-27 Pts.)	High Reclaimer2 (Testament of Menoth)	PW13	27
+Germany Black	Robin Maukisch: Wurmwood + Baldur2	circle	Wurmwood1	NA	Wurmwood1 (Wurmwood Tree of Fate & Cassius)(-27 Pts.)	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Germany Black	Robin Maukisch: Wurmwood + Baldur2	circle	Baldur2	NA	Baldur2 (Baldur the Stonesoul) (-30 Pts.)	Baldur2 (Baldur the Stonesoul)	OW11	30
+Germany Black	Moritz Riegler: Vyros2 + Ossyan	retribution	Vyros2	NA	Vyros2 (Vyros Incissar of the Dawnguard) (-27 Pts.)	 Vyros2 (Vyros Incissar of the Dawnguard)	RW10	27
+Germany Black	Moritz Riegler: Vyros2 + Ossyan	retribution	Ossyan1	NA	Ossyan1 (Lord Arcanist Ossyan) (-28 Pts.)	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+Greece Epic	Spyros Karakitsos "Skario" Cryx	cryx	Skarre1	NA	Pirate Queen Skarre - WJ: +28	Skarre1 (Pirate Queen Skarre)	CW03	28
+Greece Epic	Spyros Karakitsos "Skario" Cryx	cryx	Witch Coven	NA	The Witch Coven of Garlghast - WJ: +26	Witch Coven (The Witch Coven of Garlghast & Egregore)	CW06	26
+Greece Epic	Andreas Rizopoulos - Skorne	skorne	Rasheth1	NA	Dominar Rasheth - WB: +28	 Rasheth1 (Dominar Rasheth)	SW07	28
+Greece Epic	Andreas Rizopoulos - Skorne	skorne	Xerxis1	NA	Tyrant Xerxis - WB: +28	 Xerxis1 (Tyrant Xerxis)	SW04	28
+Greece Epic	Marios Oikonomopoulos - Legion of Everblight	legion	Lylyth3	NA	Lylyth, Reckoning of Everblight - WB: +29	Lylyth3 (Lylyth Reckoning of Everblight)	EW14	29
+Greece Epic	Marios Oikonomopoulos - Legion of Everblight	legion	Absylonia2	NA	Absylonia, Daughter of Everblight - WB: +28	Absylonia2 (Absylonia Daughter of Everblight)	EW13	28
+Greece Epic	Konstantinos Oikonomopoulos - Khador	khador	Harkevich1	NA	Kommander Harkevich, The Iron Wolf - WJ: +28	 Harkevich1 (Kommander Harkevich The Iron Wolf )	KW09	28
+Greece Epic	Konstantinos Oikonomopoulos - Khador	khador	Sorscha1	NA	Kommander Sorscha - WJ: +29	 Sorscha1 (Kommander Sorscha)	KW02	29
+Greece Epic	Giannis Agoras - Convergence of Cyriss	convergence	Aurora	NA	Aurora, The Numen of Aerogenesis - WJ: +29	Aurora (Aurora Numen of Aerogenesis)	COCW01	29
+Greece Epic	Giannis Agoras - Convergence of Cyriss	convergence	Lucant	NA	Father Lucant, The Divinity Architect - WJ: +28	Lucant (Father Lucant Divinity Architect)	COCW04	28
+Greece Prime	George Banavos (Captain)	skorne	Rasheth1	Obj : Arcane Wonder	(Rasheth 1) Dominar Rasheth [+28]	 Rasheth1 (Dominar Rasheth)	SW07	28
+Greece Prime	George Banavos (Captain)	skorne	Hexeris2	NA	(Hexeris 2) Lord Arbiter Hexeris [+27]	 Hexeris2 (Lord Arbiter Hexeris)	SW12	27
+Greece Prime	Nikos Kerazoglou	khador	Butcher3	NA	Kommander Zoktavir, the Butcher Unleashed - WJ: +22	 Butcher3 (Kommander Zoktavir The Butcher Unleashed)	KW16	22
+Greece Prime	Nikos Kerazoglou	khador	Harkevich1	NA	Kommander Harkevich, The Iron Wolf - WJ: +28	 Harkevich1 (Kommander Harkevich The Iron Wolf )	KW09	28
+Greece Prime	Orestis Argiropoulos	cryx	Agathia1	NA	(Agathia 1) Bane Witch Agathia [+29]	Agathia1 (Bane Witch Agathia)	CW11	29
+Greece Prime	Orestis Argiropoulos	cryx	Skarre1	NA	(Skarre 1) Pirate Queen Skarre [+28]	Skarre1 (Pirate Queen Skarre)	CW03	28
+Greece Prime	Dimitris Kasdiovasilis	trollbloods	Ragnor	NA	Ragnor (Ragnor Skysplitter The Runemaster) (-30 Pts.)	Ragnor (Ragnor Skysplitter The Runemaster)	TW09	30
+Greece Prime	Dimitris Kasdiovasilis	trollbloods	Jarl1	NA	Jarl1 (Jarl Skuld Devil of the Thornwood) (-30 Pts.)	Jarl1 (Jarl Skuld Devil of the Thornwood)	TW08	30
+Greece Prime	Panagiotis Demiris	skorne	Zaal1	NA	Supreme Aptimus Zaal - WB: +26	 Zaal1 (Supreme Aptimus Zaal & Kovaas)	SW05	26
+Greece Prime	Panagiotis Demiris	skorne	Naaresh1	NA	Master Ascetic Naaresh - WB: +32	 Naaresh1 (Master Ascetic Naaresh)	SW08	32
+Hungary		khador	Butcher1	Arcane Wonder - Steamroller Objective	Orsus Zoktavir, The Butcher of Khardov - WJ: +28	 Butcher1 (Orsus Zoktavir The Butcher of Khardov)	KW01	28
+Hungary		khador	Karchev1	NA	Karchev the Terrible - WJ: +30	 Karchev1 (Karchev the Terrible)	KW05	30
+Hungary		cryx	Scaverous1	NA	Lord Exhumator Scaverous - WJ: +27	Scaverous1 (Lord Exhumator Scaverous)	CW09	27
+Hungary		cryx	Venethrax1	NA	Lich Lord Venethrax - WJ: +26	Venethrax1 (Lich Lord Venethrax)	CW08	26
+Hungary		trollbloods	Borka1	NA	 Borka Kegslayer - WB: +28	Borka1 (Borka Kegslayer & Pyg Keg Carrier)	TW05	28
+Hungary		trollbloods	Grissel2	NA	 Grissel Bloodsong, Marshal of the Kriels - WB: +27	Grissel2 (Grissel Bloodsong Marshal of the Kriels)	TW12	27
+Hungary		cygnar	Nemo1	NA	Commander Adept Nemo - WJ: +30	Nemo1 (Commander Adept Nemo)	YW04	30
+Hungary		cygnar	Maddox1	NA	 Major Beth Maddox - WJ: +30	Maddox1 (Major Beth Maddox)	YW11	30
+Hungary		khador	Irusk2	NA	 Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Hungary		khador	Vladimir1	NA	 Vladimir Tzepesci, The Dark Prince - WJ: +28	 Vladimir1 (Vladimir Tzepesci The Dark Prince)	KW03	28
+Ireland Ceol	List 1	legion	Absylonia2	Arcane Wonder - Steamroller Objective	Absylonia, Daughter of Everblight [+28]	Absylonia2 (Absylonia Daughter of Everblight)	EW13	28
+Ireland Ceol	List 1	legion	Vayl2	NA	Vayl, Consul of Everblight [+28]	Vayl2 (Vayl Consul of Everblight)	EW12	28
+Ireland Ceol	List 2	retribution	Ossyan1	NA	Lord Arcanist Ossyan - WJ: +28	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+Ireland Ceol	List 2	retribution	Issyria1	NA	Issyria, Sibyl of Dawn - WJ: +29	 Issyria1 (Issyria Sibyl of Dawn)	RW07	29
+Ireland Ceol	List 1	trollbloods	Hoarluk2	NA	Hoarluk Doomshaper, Rage of Dhunia [+27]	Hoarluk2 (Hoarluk Doomshaper Rage of Dhunia)	TW11	27
+Ireland Ceol	List 1	trollbloods	Madrak2	NA	(Madrak 2) Madrak Ironhide, World Ender [+28]	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Ireland Ceol	List 2	cygnar	Caine2	NA	Captain Allister Caine - WJ: +27	Caine2 (Captain Allister Caine)	YW14	27
+Ireland Ceol	List 2	cygnar	Haley2	NA	Major Victoria Haley - WJ: +25	Haley2 (Major Victoria Haley)	YW12	25
+Ireland Ceol	List 1	circle	Wurmwood1	NA	-Cassius	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Ireland Ceol	List 1	circle	Baldur2	NA	Baldur2 - WB: +30	Baldur2 (Baldur the Stonesoul)	OW11	30
+Ireland Craic		cygnar	Haley2	Arcane Wonder - Steamroller Objective	Major Victoria Haley - WJ: +25	Haley2 (Major Victoria Haley)	YW12	25
+Ireland Craic		cygnar	Caine2	Arcane Wonder - Steamroller Objective	Captain Allister Caine - WJ: +27	Caine2 (Captain Allister Caine)	YW14	27
+Ireland Craic		legion	Thagrosh2	Arcane Wonder - Steamroller Objective	Thagrosh, the Messiah - WB: +25	Thagrosh2 (Thagrosh the Messiah)	EW11	25
+Ireland Craic		legion	Vayl2	NA	Vayl, Consul of Everblight - WB: +28	Vayl2 (Vayl Consul of Everblight)	EW12	28
+Ireland Craic		trollbloods	Hoarluk1	NA	Hoarluk Doomshaper, Shaman of the Gnarls - WB: +29	Hoarluk1 (Hoarluk Doomshaper Shaman of the Gnarls)	TW02	29
+Ireland Craic		trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Ireland Craic		protectorate	Kreoss1	NA	High Exemplar Kreoss - WJ: +29	Kreoss1 (High Exemplar Kreoss)	PW01	29
+Ireland Craic		protectorate	Thyra1	NA	Thyra, Flame of Sorrow - WJ: +29	Thyra1 (Thyra Flame of Sorrow)	PW09	29
+Ireland Craic		skorne	Naaresh1	NA	Master Ascetic Naaresh - WB: +32	 Naaresh1 (Master Ascetic Naaresh)	SW08	32
+Ireland Craic		skorne	Xerxis1	NA	Tyrant Xerxis - WB: +28	 Xerxis1 (Tyrant Xerxis)	SW04	28
+Italy Leonardo		protectorate	Reznik1	NA	High Executioner Servath Reznik - WJ: +28	Reznik1 (High Executioner Servath Reznik)	PW07	28
+Italy Leonardo		protectorate	High Reclaimer1	NA	The High Reclaimer - WJ: +32	High Reclaimer1 (The High Reclaimer)	PW02	32
+Italy Leonardo		khador	Vladimir1	NA	Vladimir Tzepesci, The Dark Prince - WJ: +28	 Vladimir1 (Vladimir Tzepesci The Dark Prince)	KW03	28
+Italy Leonardo		khador	Irusk2	NA	Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Italy Leonardo		trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Italy Leonardo		trollbloods	Hoarluk3	NA	Hoarluk Doomshaper, Dire Prophet & Scroll Bearers - WB: +26	Hoarluk3 (Hoarluk Doomshaper Dire Prophet & Scroll Bearers)	TW16	26
+Italy Leonardo		cryx	Terminus1	NA	Lich Lord Terminus - WJ: +26	Terminus1 (Lich Lord Terminus)	CW04	26
+Italy Leonardo		cryx	Deneghra1	NA	Warwitch Deneghra - WJ: +28	Deneghra1 (Warwitch Deneghra)	CW02	28
+Italy Leonardo		cygnar	Haley2	NA	Major Victoria Haley - WJ: +25	Haley2 (Major Victoria Haley)	YW12	25
+Italy Leonardo		cygnar	Caine2	NA	Captain Allister Caine - WJ: +27	Caine2 (Captain Allister Caine)	YW14	27
+Italy Michelangelo		cygnar	Caine2	NA	(Caine 2) Captain Allister Caine [+27]	Caine2 (Captain Allister Caine)	YW14	27
+Italy Michelangelo		cygnar	Haley2	NA	(Haley 2) Major Victoria Haley [+25]	Haley2 (Major Victoria Haley)	YW12	25
+Italy Michelangelo		retribution	Ossyan1	NA	(Ossyan 1) Lord Arcanist Ossyan [+28]	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+Italy Michelangelo		retribution	Vyros2	NA	(Vyros 2) Vyros, Incissar of the Dawnguard [+27]	 Vyros2 (Vyros Incissar of the Dawnguard)	RW10	27
+Italy Michelangelo		trollbloods	Madrak2	NA	(Madrak 2) Madrak Ironhide, World Ender [+28]	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Italy Michelangelo		trollbloods	Gunnbjorn	NA	(Gunnbjorn 1) Captain Gunnbjorn [+28]	Gunnbjorn (Captain Gunnbjorn)	TW07	28
+Italy Michelangelo		protectorate	Severius2	NA	(Severius 2) Hierarch Severius [+26]	Severius2 (Hierarch Severius)	PW14	26
+Italy Michelangelo		protectorate	High Reclaimer1	NA	(High Reclaimer 1) The High Reclaimer [+32]	High Reclaimer1 (The High Reclaimer)	PW02	32
+Italy Michelangelo		legion	Lylyth3	NA	(Lylyth 3) Lylyth, Reckoning of Everblight [+29]	Lylyth3 (Lylyth Reckoning of Everblight)	EW14	29
+Italy Michelangelo		legion	Thagrosh1	NA	(Thagrosh 1) Thagrosh, Prophet of Everblight [+28]	Thagrosh1 (Thagrosh Prophet of Everblight)	EW02	28
+Latvia		legion	Lylyth3	Arcane Wonder - Steamroller Objective	Lylyth, Reckoning of Everblight - WB: +29	Lylyth3 (Lylyth Reckoning of Everblight)	EW14	29
+Latvia		legion	Absylonia2	NA	Absylonia, Daughter of Everblight - WB: +28	Absylonia2 (Absylonia Daughter of Everblight)	EW13	28
+Latvia		mercenaries	Cyphon1	NA	Cognifex Cyphon - WJ: +29	Cyphon1 (Cognifex Cyphon)	MW12	29
+Latvia		mercenaries	Thexus1	NA	Exulon Thexus - WJ: +29	Thexus1 (Exulon Thexus)	MW11	29
+Latvia		circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Latvia		circle	Baldur2	NA	Baldur the Stonesoul - WB: +30	Baldur2 (Baldur the Stonesoul)	OW11	30
+Latvia		khador	Vladimir2	NA	Vladimir Tzepesci, The Dark Champion - WJ: +27	 Vladimir2 (Vladimir Tzepesci The Dark Champion)	KW13	27
+Latvia		khador	Vladimir1	NA	Vladimir Tzepesci, The Dark Prince - WJ: +28	 Vladimir1 (Vladimir Tzepesci The Dark Prince)	KW03	28
+Latvia		cygnar	Kara Sloan1	NA	Captain Kara Sloan - WJ: +28	Kara Sloan1 (Captain Kara Sloan)	YW08	28
+Latvia		cygnar	Caine2	NA	Captain Allister Caine - WJ: +27	Caine2 (Captain Allister Caine)	YW14	27
+Middle East		skorne	Xerxis1	Arcane Wonder - Steamroller Objective	Tyrant Xerxis - WB: +28	 Xerxis1 (Tyrant Xerxis)	SW04	28
+Middle East		skorne	Hexeris2	Arcane Wonder - Steamroller Objective	Lord Arbiter Hexeris - WB: +27	 Hexeris2 (Lord Arbiter Hexeris)	SW12	27
+Middle East		cryx	Witch Coven	NA	The Witch Coven of Garlghast - WJ: +26	Witch Coven (The Witch Coven of Garlghast & Egregore)	CW06	26
+Middle East		cryx	Asphyxious3	NA	Asphyxious the Hellbringer - WJ: +24	Asphyxious3 (Asphyxious the Hellbringer & Vociferon)	CW16	24
+Middle East		protectorate	Severius2	NA	Hierarch Severius - WJ: +26	Severius2 (Hierarch Severius)	PW14	26
+Middle East		protectorate	Vindictus1	NA	Vice Scrutator Vindictus - WJ: +29	Vindictus1 (Vice Scrutator Vindictus)	PW08	29
+Middle East		minions	Calaban1	NA	Calaban, The Grave Walker - WB: +29	 Calaban1 (Calaban the Grave Walker)	IW03	29
+Middle East		minions	Rask1 	NA	Rask - WB: +27	 Rask1 	IW10	27
+Middle East		circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Middle East		circle	Baldur2	NA	Baldur the Stonesoul - WB: +30	Baldur2 (Baldur the Stonesoul)	OW11	30
+Netherlands Vermeer		retribution	Issyria1	NA	Issyria, Sibyl of Dawn - WJ: +29	 Issyria1 (Issyria Sibyl of Dawn)	RW07	29
+Netherlands Vermeer		retribution	Vyros2	NA	Vyros, Incissar of the Dawnguard - WJ: +27	 Vyros2 (Vyros Incissar of the Dawnguard)	RW10	27
+Netherlands Vermeer		skorne	Xerxis1	NA	Tyrant Xerxis - WJ: +28	 Xerxis1 (Tyrant Xerxis)	SW04	28
+Netherlands Vermeer		skorne	Mordikaar1	NA	Void Seer Mordikaar - WJ: +29	 Mordikaar1 (Void Seer Mordikaar)	SW06	29
+Netherlands Vermeer		protectorate	Severius2	NA	(Severius 2) Hierarch Severius [+26]	Severius2 (Hierarch Severius)	PW14	26
+Netherlands Vermeer		protectorate	Amon1	NA	(Amon 1) High Allegiant Amon Ad-Raza [+29]	Amon1 (High Allegiant Amon Ad-Raza)	PW05	29
+Netherlands Vermeer		khador	Butcher3	NA	(Butcher 3) Kommander Zoktavir, The Butcher Unleashed [+22]	 Butcher3 (Kommander Zoktavir The Butcher Unleashed)	KW16	22
+Netherlands Vermeer		khador	Irusk2	NA	(Irusk 2) Supreme Kommandant Irusk [+27]	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Netherlands Vermeer		trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Netherlands Vermeer		trollbloods	Hoarluk2	NA	Hoarluk Doomshaper, Rage of Dhunia - WB: +27	Hoarluk2 (Hoarluk Doomshaper Rage of Dhunia)	TW11	27
+Netherlands Rembrandt		cryx	Asphyxious3	NA	Asphyxious the Hellbringer - WJ: +24	Asphyxious3 (Asphyxious the Hellbringer & Vociferon)	CW16	24
+Netherlands Rembrandt		cryx	Terminus1	NA	Lich Lord Terminus - WJ: +26	Terminus1 (Lich Lord Terminus)	CW04	26
+Netherlands Rembrandt		convergence	Axis	NA	Axis, The Harmonic Enforcer - WJ: +30	Axis (Axis the Harmonic Enforcer)	COCW02	30
+Netherlands Rembrandt		convergence	Lucant	NA	Father Lucant, The Divinity Architect - WJ: +28	Lucant (Father Lucant Divinity Architect)	COCW04	28
+Netherlands Rembrandt		trollbloods	Calandra	NA	Calandra Truthsayer, Oracle of the Glimmerwood - WB: +27	Calandra (Calandra Truthsayer Oracle of the Glimmerwood)	TW06	27
+Netherlands Rembrandt		trollbloods	Hoarluk1	NA	Hoarluk Doomshaper, Shaman of the Gnarls - WB: +29	Hoarluk1 (Hoarluk Doomshaper Shaman of the Gnarls)	TW02	29
+Netherlands Rembrandt		retribution	Issyria1	NA	Issyria, Sibyl of Dawn - WJ: +29	 Issyria1 (Issyria Sibyl of Dawn)	RW07	29
+Netherlands Rembrandt		retribution	Vyros1	NA	Dawnlord Vyros - WJ: +28	 Vyros1 (Dawnlord Vyros)	RW02	28
+Netherlands Rembrandt		khador	Karchev1	NA	Karchev the Terrible - WJ: +30	 Karchev1 (Karchev the Terrible)	KW05	30
+Netherlands Rembrandt		khador	Sorscha1	NA	Kommander Sorscha - WJ: +29	 Sorscha1 (Kommander Sorscha)	KW02	29
+Netherlands VanGogh		retribution	Issyria1	NA	Issyria, Sibyl of Dawn - WJ: +29	 Issyria1 (Issyria Sibyl of Dawn)	RW07	29
+Netherlands VanGogh		retribution	Vyros2	NA	Vyros, Incissar of the Dawnguard - WJ: +27	 Vyros2 (Vyros Incissar of the Dawnguard)	RW10	27
+Netherlands VanGogh		legion	Lylyth1	NA	Lylyth, Herald of Everblight - WB: +30	Lylyth1 (Lylyth Herald of Everblight)	EW01	30
+Netherlands VanGogh		legion	Lylyth3	NA	Lylyth, Reckoning of Everblight - WB: +29	Lylyth3 (Lylyth Reckoning of Everblight)	EW14	29
+Netherlands VanGogh		minions	Rask1 	NA	Rask - WB: +27	 Rask1 	IW10	27
+Netherlands VanGogh		minions	Barnabas 1	NA	Bloody Barnabas - WB: +28	Barnabas 1 (Bloody Barnabas)	IW02	28
+Netherlands VanGogh		circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Netherlands VanGogh		circle	Baldur2	NA	Baldur the Stonesoul - WB: +30	Baldur2 (Baldur the Stonesoul)	OW11	30
+Netherlands VanGogh		retribution	Kaelyssa1	NA	Kaelyssa, The Night's Whisper - WJ: +29	 Kaelyssa1 (Kaelyssa Night's Whisper)	RW04	29
+Netherlands VanGogh		retribution	Helynna1	NA	Magister Helynna - WJ: +30	 Helynna1 (Magister Helynna)	RW09	30
+Northern Ireland	ANDY BEATTIE	circle	Kromac1	NA	Kromac the Ravenous - WB: +26	Kromac1 (Kromac the Ravenous)	OW05	26
+Northern Ireland	ANDY BEATTIE	circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Northern Ireland	ADAM FOX	skorne	Xerxis1	NA	Tyrant Xerxis - WB: +28	 Xerxis1 (Tyrant Xerxis)	SW04	28
+Northern Ireland	ADAM FOX	skorne	Naaresh1	NA	Master Ascetic Naaresh - WB: +32	 Naaresh1 (Master Ascetic Naaresh)	SW08	32
+Northern Ireland	GERARD O’Brien	cryx	Goreshade1	NA	Goreshade the Bastard - WJ: +27	Goreshade1 (Goreshade the Bastard)	CW05	27
+Northern Ireland	GERARD O’Brien	cryx	Agathia1	NA	Bane Witch Agathia - WJ: +29	Agathia1 (Bane Witch Agathia)	CW11	29
+Northern Ireland	IAN ALDERDICE (Captain)	minions	Arkadius1	NA	Dr. Arkadius - WB: +32	 Arkadius1 (Dr. Arkadius)	IW04	32
+Northern Ireland	IAN ALDERDICE (Captain)	minions	Rask1 	NA	Rask - WB: +27	 Rask1 	IW10	27
+Northern Ireland	JONATHON GRAHAM	protectorate	High Reclaimer1	NA	The High Reclaimer - WJ: +32	High Reclaimer1 (The High Reclaimer)	PW02	32
+Northern Ireland	JONATHON GRAHAM	protectorate	Severius2	NA	Hierarch Severius - WJ: +26	Severius2 (Hierarch Severius)	PW14	26
+Norway Blue		convergence	Lucant	Arcane Wonder - Steamroller Objective	Father Lucant, The Divinity Architect - WJ: +28	Lucant (Father Lucant Divinity Architect)	COCW04	28
+Norway Blue		convergence	Iron Mother Directrix	Arcane Wonder <e2><80><93> Steamroller Objective	Iron Mother Directrix & Exponent Servitors - WJ: +27	Iron Mother Directrix (Iron Mother Directrix & Exponent Servitors)	COCW03	27
+Norway Blue		legion	Vayl2	Arcane Wonder <e2><80><93> Steamroller Objective	Vayl, Consul of Everblight - WB: +28	Vayl2 (Vayl Consul of Everblight)	EW12	28
+Norway Blue		legion	Absylonia2	NA	Absylonia, Daughter of Everblight - WB: +28	Absylonia2 (Absylonia Daughter of Everblight)	EW13	28
+Norway Blue		circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Norway Blue		circle	Kromac2	NA	Kromac, Champion of the Wurm - WB: +28	Kromac2 (Kromac Champion of the Wurm)	OW10	28
+Norway Blue		khador	Butcher3	NA	Kommander Zoktavir, the Butcher Unleashed - WJ: +22	 Butcher3 (Kommander Zoktavir The Butcher Unleashed)	KW16	22
+Norway Blue		khador	Irusk2	NA	Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Norway Blue		trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Norway Blue		trollbloods	Calandra	NA	Calandra Truthsayer, Oracle of the Glimmerwood - WB: +27	Calandra (Calandra Truthsayer Oracle of the Glimmerwood)	TW06	27
+Norway Red		retribution	Ossyan1	NA	Lord Arcanist Ossyan - WJ: +28 (Fuel Cache)	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+Norway Red		retribution	Kaelyssa1	NA	Kaelyssa, The Night's Whisper - WJ: +29 (Fuel Cache)	 Kaelyssa1 (Kaelyssa Night's Whisper)	RW04	29
+Norway Red		cygnar	Haley2	NA	Major Victoria Haley - WJ: +25 (Fuel Cache)	Haley2 (Major Victoria Haley)	YW12	25
+Norway Red		cygnar	Haley3	NA	Major Prime Victoria Haley - WJ: +25 (Bunker)	Haley3 (Major Prime Victoria Haley)	YW16	25
+Norway Red		khador	Butcher3	NA	Kommander Zoktavir, the Butcher Unleashed - WJ: +22 (Stockpile)	 Butcher3 (Kommander Zoktavir The Butcher Unleashed)	KW16	22
+Norway Red		khador	Vladimir1	NA	Vladimir Tzepesci, The Dark Prince - WJ: +28 (Fuel Cache)	 Vladimir1 (Vladimir Tzepesci The Dark Prince)	KW03	28
+Norway Red		protectorate	Vindictus1	NA	Vice Scrutator Vindictus - WJ: +29 (Fuel Cache)	Vindictus1 (Vice Scrutator Vindictus)	PW08	29
+Norway Red		protectorate	High Reclaimer1	NA	The High Reclaimer - WJ: +32 (Fuel Cache)	High Reclaimer1 (The High Reclaimer)	PW02	32
+Norway Red		circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27 (Fuel Cache)	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Norway Red		circle	Kromac1	NA	Kromac the Ravenous - WB: +26 (Fuel Cache)	Kromac1 (Kromac the Ravenous)	OW05	26
+Poland Wisents	Marcin "Herudaio" Mycek - Mercenaries	mercenaries	Magnus2	NA	Magnus the Warlord - WJ: +28	Magnus2 (Magnus the Warlord)	MW13	28
+Poland Wisents	Marcin "Herudaio" Mycek - Mercenaries	mercenaries	Ossrum1	NA	General Ossrum - WJ: +28	Ossrum1 (General Ossrum)	MW10	28
+Poland Wisents	Tomasz "Tutaj" Tutaj - Protectorate of Menoth	protectorate	Vindictus1	NA	Vice Scrutator Vindictus - WJ: +29	Vindictus1 (Vice Scrutator Vindictus)	PW08	29
+Poland Wisents	Tomasz "Tutaj" Tutaj - Protectorate of Menoth	protectorate	High Reclaimer1	NA	The High Reclaimer - WJ: +32	High Reclaimer1 (The High Reclaimer)	PW02	32
+Poland Wisents	Konrad "Kondziólo" Sosnowski - Cryx	cryx	Asphyxious3	NA	Asphyxious the Hellbringer - WJ: +24	Asphyxious3 (Asphyxious the Hellbringer & Vociferon)	CW16	24
+Poland Wisents	Konrad "Kondziólo" Sosnowski - Cryx	cryx	Witch Coven	NA	The Witch Coven of Garlghast - WJ: +26	Witch Coven (The Witch Coven of Garlghast & Egregore)	CW06	26
+Poland Wisents	Jakub "Sliski" Irzyk - Cygnar	cygnar	Kara Sloan1	NA	Captain Kara Sloan - WJ: +28	Kara Sloan1 (Captain Kara Sloan)	YW08	28
+Poland Wisents	Jakub "Sliski" Irzyk - Cygnar	cygnar	Stryker2	NA	Lord Commander Stryker - WJ: +28	Stryker2 (Lord Commander Stryker)	YW13	28
+Poland Wisents	Artur "Chomik" Rietz - Circle Orboros	circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Poland Wisents	Artur "Chomik" Rietz - Circle Orboros	circle	Krueger1	NA	Krueger the Stormwrath - WB: +28	Krueger1 (Krueger the Stormwrath)	OW12	28
+Poland Storks	Poland Stork lists	circle	Baldur2	NA	Baldur the Stonesoul - WB: +30	Baldur2 (Baldur the Stonesoul)	OW11	30
+Poland Storks	Poland Stork lists	circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Poland Storks		cygnar	Stryker1	NA	Commander Coleman Stryker - WJ: +30	Stryker1 (Commander Coleman Stryker)	YW02	30
+Poland Storks		cygnar	Stryker2	NA	Lord Commander Stryker - WJ: +28	Stryker2 (Lord Commander Stryker)	YW13	28
+Poland Storks		khador	Sorscha1	NA	Kommander Sorscha - WJ: +29	 Sorscha1 (Kommander Sorscha)	KW02	29
+Poland Storks		khador	Irusk2	NA	Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Poland Storks		retribution	Ossyan1	NA	Lord Arcanist Ossyan - WJ: +28	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+Poland Storks		retribution	Helynna1	NA	Magister Helynna - WJ: +30	 Helynna1 (Magister Helynna)	RW09	30
+Poland Storks		protectorate	Amon1	NA	High Allegiant Amon Ad-Raza - WJ: +29	Amon1 (High Allegiant Amon Ad-Raza)	PW05	29
+Poland Storks		protectorate	Severius2	NA	Hierarch Severius - WJ: +26	Severius2 (Hierarch Severius)	PW14	26
+Poland Marmots		mercenaries	Ossrum1	NA	General Ossrum - WJ: +28	Ossrum1 (General Ossrum)	MW10	28
+Poland Marmots		mercenaries	Bartolo1 	NA	Captain Bartolo Montador - WJ: +26	Bartolo1  (Captain Bartolo Montador)	MW06	26
+Poland Marmots		mercenaries	Gorten1	NA	Gorten Grundback - WJ: +31	Gorten1 (Gorten Grundback)	MW02	31
+Poland Marmots		mercenaries	Magnus2	NA	Magnus the Warlord - WJ: +28	Magnus2 (Magnus the Warlord)	MW13	28
+Poland Marmots		retribution	Ossyan1	NA	Lord Arcanist Ossyan - WJ: +28	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+Poland Marmots		retribution	Kaelyssa1	NA	Kaelyssa, The Night's Whisper - WJ: +29	 Kaelyssa1 (Kaelyssa Night's Whisper)	RW04	29
+Poland Marmots		cryx	Skarre1	NA	Pirate Queen Skarre - WJ: +28	Skarre1 (Pirate Queen Skarre)	CW03	28
+Poland Marmots		cryx	Asphyxious3	NA	Asphyxious the Hellbringer - WJ: +24	Asphyxious3 (Asphyxious the Hellbringer & Vociferon)	CW16	24
+Poland Marmots		khador	Vladimir1	NA	Vladimir Tzepesci, The Dark Prince - WJ: +28	 Vladimir1 (Vladimir Tzepesci The Dark Prince)	KW03	28
+Poland Marmots		khador	Irusk2	NA	Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Portugal Primal		khador	Sorscha1	NA	Kommander Sorscha - WJ: +29	 Sorscha1 (Kommander Sorscha)	KW02	29
+Portugal Primal		khador	Vladimir1	NA	Vladimir Tzepesci, The Dark Prince - WJ: +28	 Vladimir1 (Vladimir Tzepesci The Dark Prince)	KW03	28
+Portugal Primal		retribution	Issyria1	NA	Issyria, Sibyl of Dawn - WJ: +29	 Issyria1 (Issyria Sibyl of Dawn)	RW07	29
+Portugal Primal		retribution	Vyros2	NA	Vyros, Incissar of the Dawnguard - WJ: +27	 Vyros2 (Vyros Incissar of the Dawnguard)	RW10	27
+Portugal Primal		trollbloods	Ragnor	NA	Ragnor Skysplitter, the Runemaster - WB: +30	Ragnor (Ragnor Skysplitter The Runemaster)	TW09	30
+Portugal Primal		trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Portugal Primal		circle	Baldur1	NA	Baldur the Stonecleaver - WB: +31	Baldur1 (Baldur the Stonecleaver)	OW03	31
+Portugal Primal		circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Portugal Primal		protectorate	High Reclaimer1	NA	The High Reclaimer - WJ: +32	High Reclaimer1 (The High Reclaimer)	PW02	32
+Portugal Primal		protectorate	Severius2	NA	Hierarch Severius - WJ: +26	Severius2 (Hierarch Severius)	PW14	26
+Portugal Prime		skorne	Makeda3	NA	(Makeda 3) Makeda & the Exalted Court [+24]	 Makeda3 (Makeda & the Exalted Court)	SW15	24
+Portugal Prime		skorne	Rasheth1	NA	(Rasheth 1) Dominar Rasheth [+28]	 Rasheth1 (Dominar Rasheth)	SW07	28
+Portugal Prime		cryx	Terminus1	NA	(Terminus 1) Lich Lord Terminus [+26]	Terminus1 (Lich Lord Terminus)	CW04	26
+Portugal Prime		cryx	Scaverous1	NA	(Scaverous 1) Lord Exhumator Scaverous [+27]	Scaverous1 (Lord Exhumator Scaverous)	CW09	27
+Portugal Prime		cygnar	Haley1	NA	(Haley 1) Captain Victoria Haley [+28]	Haley1 (Captain Victoria Haley)	YW01	28
+Portugal Prime		cygnar	Haley2	NA	(Haley 2) Major Victoria Haley [+25]	Haley2 (Major Victoria Haley)	YW12	25
+Portugal Prime		cryx	Asphyxious3	NA	(Asphyxious 3) Asphyxious the Hellbringer [+24]	Asphyxious3 (Asphyxious the Hellbringer & Vociferon)	CW16	24
+Portugal Prime		cryx	Deneghra1	NA	(Deneghra 1) Warwitch Deneghra [+28]	Deneghra1 (Warwitch Deneghra)	CW02	28
+Portugal Prime		legion	Vayl2	NA	(Vayl 2) Vayl, Consul of Everblight [+28]	Vayl2 (Vayl Consul of Everblight)	EW12	28
+Portugal Prime		legion	Vayl1	NA	(Vayl 1) Vayl, Disciple of Everblight [+27]	Vayl1 (Vayl Disciple of Everblight)	EW03	27
+Russian Bears		circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Russian Bears		circle	Baldur2	NA	Baldur the Stonesoul - WB: +30	Baldur2 (Baldur the Stonesoul)	OW11	30
+Russian Bears		cygnar	Haley2	NA	Major Victoria Haley - WJ: +25	Haley2 (Major Victoria Haley)	YW12	25
+Russian Bears		cygnar	Kara Sloan1	NA	Captain Kara Sloan - WJ: +28	Kara Sloan1 (Captain Kara Sloan)	YW08	28
+Russian Bears		protectorate	Severius2	NA	Hierarch Severius - WJ: +26	Severius2 (Hierarch Severius)	PW14	26
+Russian Bears		protectorate	Amon1	NA	High Allegiant Amon Ad-Raza - WJ: +29	Amon1 (High Allegiant Amon Ad-Raza)	PW05	29
+Russian Bears		cryx	Deneghra1	NA	Warwitch Deneghra - WJ: +28	Deneghra1 (Warwitch Deneghra)	CW02	28
+Russian Bears		cryx	Witch Coven	NA	The Witch Coven of Garlghast - WJ: +26	Witch Coven (The Witch Coven of Garlghast & Egregore)	CW06	26
+Russian Bears		retribution	Issyria1	NA	Issyria, Sibyl of Dawn - WJ: +29	 Issyria1 (Issyria Sibyl of Dawn)	RW07	29
+Russian Bears		retribution	Ossyan1	NA	Lord Arcanist Ossyan - WJ: +28	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+Russian Wolves	Alexander Loginov	cygnar	Nemo1	NA	Commander Adept Nemo - WJ: +30	Nemo1 (Commander Adept Nemo)	YW04	30
+Russian Wolves	Alexander Loginov	cygnar	Haley3	NA	Major Prime Victoria Haley - WJ: +25	Haley3 (Major Prime Victoria Haley)	YW16	25
+Russian Wolves	Dmitrii Tochenov	retribution	Rahn1	NA	Adeptis Rahn - WJ: +26	 Rahn1 (Adeptis Rahn)	RW01	26
+Russian Wolves	Dmitrii Tochenov	retribution	Vyros2	NA	Vyros, Incissar of the Dawnguard - WJ: +27	 Vyros2 (Vyros Incissar of the Dawnguard)	RW10	27
+Russian Wolves	Yaroslav Karmannyy	circle	Baldur2	NA	Baldur the Stonesoul - WB: +30	Baldur2 (Baldur the Stonesoul)	OW11	30
+Russian Wolves	Yaroslav Karmannyy	circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Russian Wolves	Konstantin Kruchinin	cygnar	Kara Sloan1	NA	Captain Kara Sloan - WJ: +28	Kara Sloan1 (Captain Kara Sloan)	YW08	28
+Russian Wolves	Konstantin Kruchinin	cygnar	Haley2	NA	Major Victoria Haley - WJ: +25	Haley2 (Major Victoria Haley)	YW12	25
+Russian Wolves	Aleksei Guk	retribution	Helynna1	NA	Magister Helynna - WJ: +30	 Helynna1 (Magister Helynna)	RW09	30
+Russian Wolves	Aleksei Guk	retribution	Ossyan1	NA	Lord Arcanist Ossyan - WJ: +28	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+Scotland Bru		trollbloods	Ragnor	Arcane Wonder - Steamroller Objective	Ragnor Skysplitter, the Runemaster - WB: +30	Ragnor (Ragnor Skysplitter The Runemaster)	TW09	30
+Scotland Bru		trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Scotland Bru		khador	Karchev1	NA	Karchev the Terrible - WJ: +30	 Karchev1 (Karchev the Terrible)	KW05	30
+Scotland Bru		khador	Irusk2	NA	Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Scotland Bru		legion	Absylonia2	NA	Absylonia, Daughter of Everblight - WB: +28	Absylonia2 (Absylonia Daughter of Everblight)	EW13	28
+Scotland Bru		legion	Lylyth3	NA	Lylyth, Reckoning of Everblight - WB: +29	Lylyth3 (Lylyth Reckoning of Everblight)	EW14	29
+Scotland Bru		circle	Kromac2	NA	Kromac, Champion of the Wurm - WB: +28	Kromac2 (Kromac Champion of the Wurm)	OW10	28
+Scotland Bru		circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Scotland Bru		mercenaries	Ossrum1	NA	General Ossrum - WJ: +28	Ossrum1 (General Ossrum)	MW10	28
+Scotland Bru		mercenaries	Gorten1	NA	Gorten Grundback - WJ: +31	Gorten1 (Gorten Grundback)	MW02	31
+Scotland Irn	1 - Bryce Johnston - Protectorate of Menoth	protectorate	Severius1	NA	Grand Scrutator Severius - WB: +28	Severius1 (Grand Scrutator Severius)	PW03	28
+Scotland Irn	1 - Bryce Johnston - Protectorate of Menoth	protectorate	Amon1	NA	High Allegiant Amon Ad-Raza - WB: +29	Amon1 (High Allegiant Amon Ad-Raza)	PW05	29
+Scotland Irn	2 - William Cruickshanks - Convergence of Cyriss	convergence	Lucant	NA	Father Lucant, The Divinity Architect - WB: +28	Lucant (Father Lucant Divinity Architect)	COCW04	28
+Scotland Irn	2 - William Cruickshanks - Convergence of Cyriss	convergence	Iron Mother Directrix	NA	Iron Mother Directrix & Exponent Servitors - WB: +27	Iron Mother Directrix (Iron Mother Directrix & Exponent Servitors)	COCW03	27
+Scotland Irn	3 - Michael Dick - Circle Orboros	circle	Tanith1	NA	Tanith the Feral Song - WB: +31	Tanith1 (Tanith the Feral Song)	OW15	31
+Scotland Irn	3 - Michael Dick - Circle Orboros	circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Scotland Irn	4 - Alasdair Johnstone - Cygnar	cygnar	Haley1	NA	Captain Victoria Haley - WB: +28	Haley1 (Captain Victoria Haley)	YW01	28
+Scotland Irn	4 - Alasdair Johnstone - Cygnar	cygnar	Haley2	NA	Major Victoria Haley - WB: +25	Haley2 (Major Victoria Haley)	YW12	25
+Scotland Irn	5 - Fraser McFetridge - Minions	minions	Rask1 	NA	Rask - WB: +27	 Rask1 	IW10	27
+Scotland Irn	5 - Fraser McFetridge - Minions	minions	Maelok1	NA	Maelok the Dreadbound - WB: +28	 Maelok1 (Maelok the Dreadbound)	IW05	28
+Slovenia	Jan Kleva Ivancic	khador	Butcher3	Arcane Wonder (Steamroller objective) [0]	(Butcher 3) Kommander Zoktavir, The Butcher Unleashed [+22]	 Butcher3 (Kommander Zoktavir The Butcher Unleashed)	KW16	22
+Slovenia	Jan Kleva Ivancic	khador	Vladimir1	NA	(Vladimir 1) Vladimir Tzepesci, The Dark Prince [+28]	 Vladimir1 (Vladimir Tzepesci The Dark Prince)	KW03	28
+Slovenia	Brin Blatnik	trollbloods	Madrak2	NA	(Madrak 2) Madrak Ironhide, World Ender [+28]	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Slovenia	Brin Blatnik	trollbloods	Hoarluk2	NA	(Doomshaper 2) Hoarluk Doomshaper, Rage of Dhunia [+27]	Hoarluk2 (Hoarluk Doomshaper Rage of Dhunia)	TW11	27
+Slovenia	Jean-Sebastien Imbeau	protectorate	Kreoss1	NA	(Kreoss 1) High Exemplar Kreoss [+29]	Kreoss1 (High Exemplar Kreoss)	PW01	29
+Slovenia	Jean-Sebastien Imbeau	protectorate	Durst1	NA	(Durst 1) Anson Durst, Rock of the Faith [+28]	Durst1 (Anson Durst Rock of the Faith)	PW10	28
+Slovenia	Tomaž Kovacic	cygnar	Kara Sloan1	NA	(Sloan 1) Captain Kara Sloan [+28]	Kara Sloan1 (Captain Kara Sloan)	YW08	28
+Slovenia	Tomaž Kovacic	cygnar	Caine2	NA	(Caine 2) Captain Allister Caine [+27]	Caine2 (Captain Allister Caine)	YW14	27
+Slovenia	Maksimiljan Galos	circle	Wurmwood1	NA	(Wurmwood 1) Wurmwood, Tree of Fate [+27]	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Slovenia	Maksimiljan Galos	circle	Baldur1	NA	(Baldur 1) Baldur the Stonecleaver [+31]	Baldur1 (Baldur the Stonecleaver)	OW03	31
+Spain Red		circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Spain Red		circle	Baldur2	NA	Baldur the Stonesoul - WB: +30	Baldur2 (Baldur the Stonesoul)	OW11	30
+Spain Red		cygnar	Stryker2	NA	Lord Commander Stryker - WJ: +28	Stryker2 (Lord Commander Stryker)	YW13	28
+Spain Red		cygnar	Haley1	NA	Captain Victoria Haley - WJ: +28	Haley1 (Captain Victoria Haley)	YW01	28
+Spain Red		legion	Vayl2	NA	Vayl, Consul of Everblight - WB: +28	Vayl2 (Vayl Consul of Everblight)	EW12	28
+Spain Red		legion	Lylyth3	NA	Lylyth, Reckoning of Everblight - WB: +29	Lylyth3 (Lylyth Reckoning of Everblight)	EW14	29
+Spain Red		khador	Vladimir1	NA	Vladimir Tzepesci, The Dark Prince - WJ: +28	 Vladimir1 (Vladimir Tzepesci The Dark Prince)	KW03	28
+Spain Red		khador	Irusk2	NA	Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+Spain Red		cryx	Deneghra1	NA	Warwitch Deneghra - WJ: +28	Deneghra1 (Warwitch Deneghra)	CW02	28
+Spain Red		cryx	Scaverous1	NA	Lord Exhumator Scaverous - WJ: +27	Scaverous1 (Lord Exhumator Scaverous)	CW09	27
+Spain Rogue	Adrian Ramos (Captain)	convergence	Lucant	Arcane Wonder - Steamroller Objective	Father Lucant, The Divinity Architect - WJ: +28	Lucant (Father Lucant Divinity Architect)	COCW04	28
+Spain Rogue	Adrian Ramos (Captain)	convergence	Iron Mother Directrix	NA	Iron Mother Directrix & Exponent Servitors - WJ: +27	Iron Mother Directrix (Iron Mother Directrix & Exponent Servitors)	COCW03	27
+Spain Rogue		circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Spain Rogue		circle	Baldur2	NA	Baldur the Stonesoul - WB: +30	Baldur2 (Baldur the Stonesoul)	OW11	30
+Spain Rogue		cygnar	Caine2	NA	Captain Allister Caine - WJ: +27	Caine2 (Captain Allister Caine)	YW14	27
+Spain Rogue		cygnar	Haley2	NA	Major Victoria Haley - WJ: +25	Haley2 (Major Victoria Haley)	YW12	25
+Spain Rogue		protectorate	Vindictus1	NA	Vice Scrutator Vindictus - WJ: +29	Vindictus1 (Vice Scrutator Vindictus)	PW08	29
+Spain Rogue		protectorate	Severius2	NA	Hierarch Severius - WJ: +26	Severius2 (Hierarch Severius)	PW14	26
+Spain Rogue		trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Spain Rogue		trollbloods	Gunnbjorn	NA	Captain Gunnbjorn - WB: +28	Gunnbjorn (Captain Gunnbjorn)	TW07	28
+Sweden Nobel		retribution	Vyros1	NA	Dawnlord Vyros - WJ: +28	 Vyros1 (Dawnlord Vyros)	RW02	28
+Sweden Nobel		retribution	Issyria1	NA	Issyria, Sibyl of Dawn - WJ: +29	 Issyria1 (Issyria Sibyl of Dawn)	RW07	29
+Sweden Nobel		retribution	Ossyan1	NA	Lord Arcanist Ossyan - WJ: +28	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+Sweden Nobel		retribution	Kaelyssa1	NA	Kaelyssa, The Night's Whisper - WJ: +29	 Kaelyssa1 (Kaelyssa Night's Whisper)	RW04	29
+Sweden Nobel		circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Sweden Nobel		circle	Tanith1	NA	Tanith the Feral Song - WB: +31	Tanith1 (Tanith the Feral Song)	OW15	31
+Sweden Nobel		cygnar	Haley2	NA	Major Victoria Haley - WJ: +25	Haley2 (Major Victoria Haley)	YW12	25
+Sweden Nobel		cygnar	Haley3	NA	Major Prime Victoria Haley - WJ: +25	Haley3 (Major Prime Victoria Haley)	YW16	25
+Sweden Nobel		khador	Karchev1	NA	Karchev the Terrible - WJ: +30	 Karchev1 (Karchev the Terrible)	KW05	30
+Sweden Nobel		khador	Vladimir1	NA	Vladimir Tzepesci, The Dark Prince - WJ: +28	 Vladimir1 (Vladimir Tzepesci The Dark Prince)	KW03	28
+Sweden Bofors	- Naga Nightlurker - PC: 8 (Battlegroup Points Used	retribution	Issyria1	NA	Issyria, Sibyl of Dawn - WJ: +29	 Issyria1 (Issyria Sibyl of Dawn)	RW07	29
+Sweden Bofors	- Naga Nightlurker - PC: 8 (Battlegroup Points Used	retribution	Vyros2	NA	Vyros, Incissar of the Dawnguard - WJ: +27	 Vyros2 (Vyros Incissar of the Dawnguard)	RW10	27
+Sweden Bofors		legion	Absylonia2	NA	Absylonia, Daughter of Everblight - WB: +28	Absylonia2 (Absylonia Daughter of Everblight)	EW13	28
+Sweden Bofors		legion	Vayl2	NA	Vayl, Consul of Everblight - WB: +28	Vayl2 (Vayl Consul of Everblight)	EW12	28
+Sweden Bofors		protectorate	Kreoss3	NA	Intercessor Kreoss - WJ: +28	Kreoss3 (Intercessor Kreoss)	PW17	28
+Sweden Bofors		protectorate	Harbinger1	NA	The Harbinger of Menoth - WJ: +24	Harbinger1 (The Harbinger of Menoth)	PW06	24
+Sweden Bofors		trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Sweden Bofors		trollbloods	Borka1	NA	Borka Kegslayer - WB: +28	Borka1 (Borka Kegslayer & Pyg Keg Carrier)	TW05	28
+Sweden Bofors		cygnar	Haley3	NA	Major Prime Victoria Haley - WJ: +25	Haley3 (Major Prime Victoria Haley)	YW16	25
+Sweden Bofors		cygnar	Haley2	NA	Major Victoria Haley - WJ: +25	Haley2 (Major Victoria Haley)	YW12	25
+Sweden Dynamite		khador	Karchev1	Arcane Wonder - Steamroller Objective	Karchev the Terrible - WJ: +30	 Karchev1 (Karchev the Terrible)	KW05	30
+Sweden Dynamite		khador	Vladimir2	NA	Vladimir Tzepesci, The Dark Champion - WJ: +27	 Vladimir2 (Vladimir Tzepesci The Dark Champion)	KW13	27
+Sweden Dynamite		minions	Arkadius1	NA	Dr. Arkadius - WB: +32	 Arkadius1 (Dr. Arkadius)	IW04	32
+Sweden Dynamite		minions	Sturm & Drang1 	NA	Sturm & Drang - WB: +28	 Sturm & Drang1 	IW06	28
+Sweden Dynamite		minions	Barnabas 1	NA	Bloody Barnabas - WB: +28	Barnabas 1 (Bloody Barnabas)	IW02	28
+Sweden Dynamite		minions	Rask1 	NA	Rask - WB: +27	 Rask1 	IW10	27
+Sweden Dynamite		trollbloods	Borka1	NA	Borka Kegslayer - WB: +28	Borka1 (Borka Kegslayer & Pyg Keg Carrier)	TW05	28
+Sweden Dynamite		trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Sweden Dynamite		cryx	Witch Coven	NA	The Witch Coven of Garlghast - WJ: +26	Witch Coven (The Witch Coven of Garlghast & Egregore)	CW06	26
+Sweden Dynamite		cryx	Deneghra1	NA	Warwitch Deneghra - WJ: +28	Deneghra1 (Warwitch Deneghra)	CW02	28
+Switzerland Chocolate		protectorate	Thyra1	NA	Thyra, Flame of Sorrow - WJ: +29	Thyra1 (Thyra Flame of Sorrow)	PW09	29
+Switzerland Chocolate		protectorate	Severius1	NA	Grand Scrutator Severius - WJ: +28	Severius1 (Grand Scrutator Severius)	PW03	28
+Switzerland Chocolate		cryx	Mortenebra1	NA	Master Necrotech Mortenebra - WJ: +24	Mortenebra1 (Master Necrotech Mortenebra & Deryliss)	CW07	24
+Switzerland Chocolate		cryx	Goreshade1	NA	Goreshade the Bastard - WJ: +27	Goreshade1 (Goreshade the Bastard)	CW05	27
+Switzerland Chocolate		protectorate	Severius2	NA	Hierarch Severius - WJ: +26	Severius2 (Hierarch Severius)	PW14	26
+Switzerland Chocolate		protectorate	Amon1	NA	High Allegiant Amon Ad-Raza - WJ: +29	Amon1 (High Allegiant Amon Ad-Raza)	PW05	29
+Switzerland Chocolate		cygnar	Haley2	NA	Major Victoria Haley - WJ: +25	Haley2 (Major Victoria Haley)	YW12	25
+Switzerland Chocolate		cygnar	Haley1	NA	Captain Victoria Haley - WJ: +28	Haley1 (Captain Victoria Haley)	YW01	28
+Switzerland Chocolate		retribution	Kaelyssa1	NA	Kaelyssa, The Night's Whisper - WJ: +29	 Kaelyssa1 (Kaelyssa Night's Whisper)	RW04	29
+Switzerland Chocolate		retribution	Helynna1	NA	Magister Helynna - WJ: +30	 Helynna1 (Magister Helynna)	RW09	30
+Switzerland Cheese		cryx	Skarre2	NA	Skarre, Queen of the Broken Coast - WJ: +26	Skarre2 (Skarre, Queen of the Broken Coast)	CW14	26
+Switzerland Cheese		cryx	Asphyxious3	NA	Asphyxious the Hellbringer - WJ: +24	Asphyxious3 (Asphyxious the Hellbringer & Vociferon)	CW16	24
+Switzerland Cheese		minions	Carver1	NA	Lord Carver, BMMD, Esq. III - WB: +28	Carver1 (Lord Carver BMMD Esq. III)	IW01	28
+Switzerland Cheese		minions	Sturm & Drang1 	NA	Sturm & Drang - WB: +28	 Sturm & Drang1 	IW06	28
+Switzerland Cheese		khador	Butcher1	NA	Orsus Zoktavir, The Butcher of Khardov - WJ: +28	 Butcher1 (Orsus Zoktavir The Butcher of Khardov)	KW01	28
+Switzerland Cheese		khador	Sorscha1	NA	Kommander Sorscha - WJ: +29	 Sorscha1 (Kommander Sorscha)	KW02	29
+Switzerland Cheese		circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+Switzerland Cheese		circle	Kromac2	NA	Kromac, Champion of the Wurm - WB: +28	Kromac2 (Kromac Champion of the Wurm)	OW10	28
+Switzerland Cheese		skorne	Morghoul1	NA	Master Tormentor Morghoul - WB: +30	 Morghoul1 (Master Tormentor Morghoul)	SW01	30
+Switzerland Cheese		skorne	Rasheth1	NA	Dominar Rasheth - WB: +28	 Rasheth1 (Dominar Rasheth)	SW07	28
+UAE		trollbloods	Madrak2	Arcane Wonder - Steamroller Objective	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+UAE		trollbloods	Grissel2	NA	Grissel Bloodsong, Marshal of the Kriels - WB: +27	Grissel2 (Grissel Bloodsong Marshal of the Kriels)	TW12	27
+UAE		khador	Irusk2	NA	Supreme Kommandant Irusk - WJ: +27	 Irusk2 (Supreme Kommandant Irusk)	KW14	27
+UAE		khador	Vladimir3	NA	Vladimir Tzepesci, Great Prince of Umbrey - WJ: +27	 Vladimir3 (Vladimir Tzepesci Great Prince of Umbrey)	KW17	27
+UAE		circle	Baldur1	NA	Baldur the Stonecleaver - WB: +31	Baldur1 (Baldur the Stonecleaver)	OW03	31
+UAE		circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+UAE		cryx	Venethrax1	NA	Lich Lord Venethrax - WJ: +26	Venethrax1 (Lich Lord Venethrax)	CW08	26
+UAE		cryx	Deneghra1	NA	Warwitch Deneghra - WJ: +28	Deneghra1 (Warwitch Deneghra)	CW02	28
+UAE		cygnar	Haley2	NA	Major Victoria Haley - WJ: +25	Haley2 (Major Victoria Haley)	YW12	25
+UAE		cygnar	Caine1	NA	Lieutenant Allister Caine - WJ: +30	Caine1 (Lieutenant Allister Caine)	YW03	30
+USA Red		protectorate	Harbinger1	NA	Harbinger of Menoth	Harbinger1 (The Harbinger of Menoth)	PW06	24
+USA Red		protectorate	Severius2	NA	Hierarch Severius	Severius2 (Hierarch Severius)	PW14	26
+USA Red		cygnar	Stryker3	NA	Lord General Coleman Stryker	Stryker3 (Lord General Coleman Stryker)	YW17	28
+USA Red		cygnar	Caine2	NA	Captain Allister Caine - WJ: +27	Caine2 (Captain Allister Caine)	YW14	27
+USA Red		trollbloods	Madrak2	NA	Madrak Ironhide, World Ender	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+USA Red		trollbloods	Gunnbjorn	NA	Captain Gunnbjorn	Gunnbjorn (Captain Gunnbjorn)	TW07	28
+USA Red		circle	Tanith1	NA	Tanith the Feral Song - WB: +31	Tanith1 (Tanith the Feral Song)	OW15	31
+USA Red		circle	Wurmwood1	NA	Wurmwood, Tree of Fate	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+USA Red		mercenaries	Ossrum1	NA	General Ossrum	Ossrum1 (General Ossrum)	MW10	28
+USA Red		mercenaries	Damiano1	NA	Captain Damiano	Damiano1 (Captain Damiano)	MW09	28
+USA White		skorne	Rasheth1	NA	Dominar Rasheth - WB: +28	 Rasheth1 (Dominar Rasheth)	SW07	28
+USA White		skorne	Makeda2	NA	Supreme Archdomina Makeda - WB: +24	 Makeda2 (Supreme Archdomina Makeda)	SW11	24
+USA White		retribution	Helynna1	NA	Magister Helynna - WJ: +30	 Helynna1 (Magister Helynna)	RW09	30
+USA White		retribution	Ossyan1	NA	Lord Arcanist Ossyan - WJ: +28	 Ossyan1 (Lord Arcanist Ossyan)	RW06	28
+USA White		legion	Absylonia2	NA	Absylonia, Daughter of Everblight - WB: +28	Absylonia2 (Absylonia Daughter of Everblight)	EW13	28
+USA White		legion	Lylyth3	NA	Lylyth, Reckoning of Everblight - WB: +29	Lylyth3 (Lylyth Reckoning of Everblight)	EW14	29
+USA White		circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+USA White		circle	Kaya2	NA	Kaya the Moonhunter - WB: +24	Kaya2 (Kaya the Moonhunter & Laris)	OW12	24
+USA White		cygnar	Haley2	NA	Major Victoria Haley - WJ: +25	Haley2 (Major Victoria Haley)	YW12	25
+USA White		cygnar	Kara Sloan1	NA	Captain Kara Sloan - WJ: +28	Kara Sloan1 (Captain Kara Sloan)	YW08	28
+USA Blue		trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+USA Blue		trollbloods	Ragnor	NA	Ragnor Skysplitter, the Runemaster - WB: +30	Ragnor (Ragnor Skysplitter The Runemaster)	TW09	30
+USA Blue		circle	Tanith1	NA	Tanith the Feral Song - WB: +31	Tanith1 (Tanith the Feral Song)	OW15	31
+USA Blue		circle	Wurmwood1	NA	Wurmwood, Tree of Fate & Cassius the Oathkeeper - WB: +27	Wurmwood1 (Wurmwood Tree of Fate & Cassius the Oathkeeper)	OW07	27
+USA Blue		legion	Lylyth3	NA	Lylyth, Reckoning of Everblight - WB: +29	Lylyth3 (Lylyth Reckoning of Everblight)	EW14	29
+USA Blue		legion	Vayl2	NA	Vayl, Consul of Everblight - WB: +28	Vayl2 (Vayl Consul of Everblight)	EW12	28
+USA Blue		trollbloods	Gunnbjorn	NA	Captain Gunnbjorn - WB: +28	Gunnbjorn (Captain Gunnbjorn)	TW07	28
+USA Blue		trollbloods	Hoarluk3	NA	Hoarluk Doomshaper, Dire Prophet & Scroll Bearers - WB: +26	Hoarluk3 (Hoarluk Doomshaper Dire Prophet & Scroll Bearers)	TW16	26
+USA Blue		circle	Kaya2	NA	Kaya the Moonhunter - WB: +24	Kaya2 (Kaya the Moonhunter & Laris)	OW12	24
+USA Blue		circle	Kromac2	NA	Kromac, Champion of the Wurm - WB: +28	Kromac2 (Kromac Champion of the Wurm)	OW10	28
+Wales Crafanc	Benefits	retribution	Rahn1	NA	Adeptis Rahn - WJ: +26	 Rahn1 (Adeptis Rahn)	RW01	26
+Wales Crafanc	Benefits	retribution	Helynna1	NA	Magister Helynna - WJ: +30	 Helynna1 (Magister Helynna)	RW09	30
+Wales Crafanc		protectorate	Thyra1	NA	Thyra, Flame of Sorrow - WJ: +29	Thyra1 (Thyra Flame of Sorrow)	PW09	29
+Wales Crafanc		protectorate	Kreoss1	NA	High Exemplar Kreoss - WJ: +29	Kreoss1 (High Exemplar Kreoss)	PW01	29
+Wales Crafanc		cryx	Goreshade1	NA	Goreshade the Bastard - WJ: +27	Goreshade1 (Goreshade the Bastard)	CW05	27
+Wales Crafanc		cryx	Deneghra1	NA	Warwitch Deneghra - WJ: +28	Deneghra1 (Warwitch Deneghra)	CW02	28
+Wales Crafanc		trollbloods	Madrak2	NA	Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Wales Crafanc		trollbloods	Borka2	NA	Borka, Vengeance of the Rimeshaws - WB: +29	Borka2 (Borka Vengeance of the Rimeshaws)	TW15	29
+Wales Crafanc		mercenaries	Bartolo1 	NA	Captain Bartolo Montador - WJ: +26	Bartolo1  (Captain Bartolo Montador)	MW06	26
+Wales Crafanc		mercenaries	Magnus2	NA	Magnus the Warlord - WJ: +28	Magnus2 (Magnus the Warlord)	MW13	28
+Wales Dant		legion	Vayl2	NA	Vayl, Consul of Everblight - WB: +28	Vayl2 (Vayl Consul of Everblight)	EW12	28
+Wales Dant		legion	Absylonia2	NA	 Absylonia, Daughter of Everblight - WB: +28	Absylonia2 (Absylonia Daughter of Everblight)	EW13	28
+Wales Dant		trollbloods	Madrak2	NA	 Madrak Ironhide, World Ender - WB: +28	Madrak2 (Madrak Ironhide World Ender)	TW10	28
+Wales Dant		trollbloods	Gunnbjorn	NA	 Captain Gunnbjorn - WB: +28	Gunnbjorn (Captain Gunnbjorn)	TW07	28
+Wales Dant		skorne	Mordikaar1	NA	 Void Seer Mordikaar - WB: +29	 Mordikaar1 (Void Seer Mordikaar)	SW06	29
+Wales Dant		skorne	Rasheth1	NA	 Dominar Rasheth - WB: +28	 Rasheth1 (Dominar Rasheth)	SW07	28
+Wales Dant		minions	Barnabas 1	NA	 Bloody Barnabas - WB: +28	Barnabas 1 (Bloody Barnabas)	IW02	28
+Wales Dant		minions	Maelok1	NA	 Maelok the Dreadbound - WB: +28	 Maelok1 (Maelok the Dreadbound)	IW05	28
+Wales Dant		khador	Butcher3	NA	 Kommander Zoktavir, the Butcher Unleashed - WJ: +22	 Butcher3 (Kommander Zoktavir The Butcher Unleashed)	KW16	22
+Wales Dant		khador	Strakhov1	NA	Kommander Oleg Strakhov - WJ: +28	 Strakhov1 (Kommander Oleg Strakhov)	KW08	28
