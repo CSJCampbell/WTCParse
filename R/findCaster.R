@@ -14,6 +14,7 @@
 # findCaster(txt = "Nemo", faction = "cygnar")
 # findCaster(txt = "lord exhumator scaverous")
 # findCaster(txt = "---")
+
 findCaster <- function(txt, faction) {
     if (is.null(txt) || length(txt) < 1L) { stop("txt was length zero") }
     if (!is.character(txt)) { stop("txt must be character") }
@@ -149,7 +150,7 @@ casterSearch <- function(txt, faction) {
     return(out)
 }
 
-# get faction object
+# get faction data object, sourced from troop-creator
 getFaction <- function(faction) {
     if (is.character(faction)) {
         if (length(faction) != 1L) { stop("faction must be length 1") }
