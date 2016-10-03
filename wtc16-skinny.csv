@@ -282,7 +282,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 281,2,1,2016,Fraser Phillips,Team Middle East,Xerxis 1,1,Middle.East,NA,FALSE
 282,2,0,2016,Josh Blakemore,Team Middle East,Xerxis 1,1,Middle.East,protectorate,FALSE
 283,2,0,2016,Joseph Hanna,Team Middle East,Xerxis 1,1,Middle.East,skorne,TRUE
-284,2,0,2016,Eric Liu,Team Middle East,Xerxis 1,1,Middle.East,cryx,FALSE
+284,2,0,2016,Eric Liu,Team Middle East,Witch coven 1,1,Middle.East,cryx,TRUE
 285,2,0,2016,Bryce Geeraert,Team Middle East,Xerxis 1,1,Middle.East,circle,FALSE
 286,2,0,2016,Adam Fox,Team Northern Ireland,Naaresh 1,1,Northern.Ireland,skorne,TRUE
 287,2,0,2016,Andy Beattie,Team Northern Ireland,Wurmwood 1,1,Northern.Ireland,circle,TRUE
@@ -640,7 +640,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 639,4,0,2016,Eric Liu,Team Middle East,Asphyxious 3,1,Middle.East,cryx,TRUE
 640,4,1,2016,Josh Blakemore,Team Middle East,Severius 2,1,Middle.East,protectorate,TRUE
 641,5,1,2016,Ben Fuzi,Team Germany Black,Haley 2,1,Germany,cygnar,TRUE
-642,5,0,2016,Dominik de Cassan,Team Germany Black,Haley 2,1,Germany,convergence,FALSE
+642,5,0,2016,Dominik de Cassan,Team Germany Black,Axis 1,1,Germany,convergence,TRUE
 643,5,1,2016,Sascha Maisel,Team Germany Black,High Reclaimer 1,1,Germany,protectorate,TRUE
 644,5,1,2016,Robin Maukisch,Team Germany Black,Baldur 2,1,Germany,circle,TRUE
 645,5,1,2016,Moritz Riegler,Team Germany Black,Vyros 2,1,Germany,retribution,TRUE
@@ -1198,7 +1198,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 237,2,0,2016,Peter Bates,Team Australia Koala,Severius 2,2,Australia,protectorate,TRUE
 238,2,0,2016,Aaron Wale,Team Australia Koala,Skarre 1,2,Australia,cryx,TRUE
 239,2,0,2016,David Potts,Team Australia Koala,Naaresh 1,2,Australia,skorne,TRUE
-240,2,0,2016,Josh Bates,Team Australia Koala,Skarre 1,2,Australia,cygnar,FALSE
+240,2,0,2016,Josh Bates,Team Australia Koala,Caine 2,2,Australia,cygnar,TRUE
 241,2,1,2016,Terje Boye,Team Norway Red,Butcher 3,2,Norway,khador,TRUE
 242,2,1,2016,Jarle Svendsrud,Team Norway Red,Haley 2,2,Norway,cygnar,TRUE
 243,2,0,2016,Gard Andresen,Team Norway Red,Kaelyssa 1,2,Norway,retribution,TRUE
