@@ -350,7 +350,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 349,3,1,2016,Alasdair Johnstone,Team Scotland Irn,Haley 2,1,Scotland,cygnar,TRUE
 350,3,0,2016,Fraser McFetridge,Team Scotland Irn,Rask 1,1,Scotland,minions,TRUE
 351,3,1,2016,David Beauchamp,Team Canada Goose,Ossyan 1,1,Canada,retribution,TRUE
-352,3,1,2016,Bubba Dalton,Team Canada Goose,Karchev 1,1,Canada,khador,TRUE
+352,3,1,2016,Bubba Dalton,Team Canada Goose,Irusk 2,1,Canada,khador,TRUE
 353,3,0,2016,Chandler Davidson,Team Canada Goose,Severius 2,1,Canada,protectorate,TRUE
 354,3,0,2016,Tim Fung,Team Canada Goose,Wurmwood 1,1,Canada,circle,TRUE
 355,3,1,2016,Chris Orr,Team Canada Goose,Kallus 1,1,Canada,legion,TRUE
@@ -376,7 +376,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 375,3,1,2016,Toby Nathan,Team England Roses,Ragnor 1,1,England,trollbloods,TRUE
 376,3,0,2016,Martin Florian,Team Austria Apfelstrudel,Butcher 3,1,Austria,khador,TRUE
 377,3,0,2016,Alexander Grob,Team Austria Apfelstrudel,Caine 2,1,Austria,cygnar,TRUE
-378,3,1,2016,Daniel Maierl,Team Austria Apfelstrudel,Butcher 3,1,Austria,retribution,FALSE
+378,3,1,2016,Daniel Maierl,Team Austria Apfelstrudel,Ossyan 1,1,Austria,retribution,TRUE
 379,3,0,2016,Daniel Pawelka,Team Austria Apfelstrudel,Madrak 2,1,Austria,trollbloods,TRUE
 380,3,1,2016,Laszlo Vuray,Team Austria Apfelstrudel,Sturm & Drang 1,1,Austria,minions,TRUE
 381,3,1,2016,Wout Maerschalck,Team Belgium Prinzesschen,Sloan 1,1,Belgium,cygnar,TRUE
@@ -997,7 +997,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 36,1,1,2016,Jeff Everitt,Team Canada Moose,Butcher 1,2,Canada,khador,TRUE
 37,1,1,2016,RJ Marchant,Team Canada Moose,Saeryn 2 & Rhyas 2,2,Canada,legion,TRUE
 38,1,0,2016,Dustin McWhirter,Team Canada Moose,Stryker 2,2,Canada,cygnar,TRUE
-39,1,1,2016,Lukasz Kruszenski,Team Canada Moose,Vayl 1,2,Canada,NA,FALSE
+39,1,1,2016,Lukasz Kruszenski,Team Canada Moose,Vayl 2,2,Canada,legion,TRUE
 40,1,0,2016,Cory Doyle,Team Canada Moose,Severius 2,2,Canada,protectorate,TRUE
 41,1,1,2016,Gard Andresen,Team Norway Red,Kaelyssa 1,2,Norway,retribution,TRUE
 42,1,0,2016,Terje Boye,Team Norway Red,Vladimir 1,2,Norway,khador,TRUE
