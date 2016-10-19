@@ -50,8 +50,8 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 49,1,1,2016,Hinnerk Fischer,Team Germany Red,Severius 2,1,Germany,protectorate,TRUE
 50,1,1,2016,Florian Platte,Team Germany Red,High Reclaimer 1,1,Germany,protectorate,TRUE
 51,1,0,2016,Marc Trautmann,Team Switzerland Chocolate,Kaelyssa 1,1,Switzerland,retribution,TRUE
-52,1,0,2016,Robi Deola,Team Switzerland Chocolate,Haley 1,1,Switzerland,protectorate,FALSE
-53,1,0,2016,Giaccomo Mader,Team Switzerland Chocolate,Thyra 1,1,Switzerland,cygnar,FALSE
+52,1,0,2016,Robi Deola,Team Switzerland Chocolate,NA,1,Switzerland,protectorate,FALSE
+53,1,0,2016,Giaccomo Mader,Team Switzerland Chocolate,NA,1,Switzerland,cygnar,FALSE
 54,1,0,2016,Marco Bernasconi,Team Switzerland Chocolate,Mortenebra 1,1,Switzerland,cryx,TRUE
 55,1,0,2016,Michael Ilegems,Team Switzerland Chocolate,Severius 2,1,Switzerland,protectorate,TRUE
 56,1,1,2016,Jarkko Vahamaa,Team Finland Joukahainen,Kromac 2,1,Finland,circle,TRUE
@@ -240,8 +240,8 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 239,2,0,2016,Pauli Lehtoranta,Team Finland Väinämöinen,Rask 1,1,Finland,minions,TRUE
 240,2,0,2016,Jaakko Uusitupa,Team Finland Väinämöinen,Haley 1,1,Finland,cygnar,TRUE
 241,2,1,2016,Josep Raúl López,Team Spain Rogue,Haley 2,1,Spain,cygnar,TRUE
-242,2,1,2016,Adrian Ramos,Team Spain Rogue,Gunnbjorn 1,1,Spain,convergence,FALSE
-243,2,0,2016,Jorge Cerdá,Team Spain Rogue,Iron Mother 1,1,Spain,trollbloods,FALSE
+242,2,1,2016,Adrian Ramos,Team Spain Rogue,NA,1,Spain,convergence,FALSE
+243,2,0,2016,Jorge Cerdá,Team Spain Rogue,NA,1,Spain,trollbloods,FALSE
 244,2,1,2016,Manuel Tulla,Team Spain Rogue,Baldur 2,1,Spain,circle,TRUE
 245,2,0,2016,Marc Heredia,Team Spain Rogue,Severius 2,1,Spain,protectorate,TRUE
 246,2,1,2016,Antti Jussila,Team Finland Joukahainen,Magnus 2,1,Finland,mercenaries,TRUE
@@ -279,11 +279,11 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 278,2,0,2016,Dorian Gordon,Team Spain Red,Haley 1,1,Spain,cygnar,TRUE
 279,2,1,2016,Enrique Lopez,Team Spain Red,Baldur 2,1,Spain,circle,TRUE
 280,2,0,2016,Raul Segado,Team Spain Red,Scaverous 1,1,Spain,cryx,TRUE
-281,2,1,2016,Fraser Phillips,Team Middle East,Xerxis 1,1,Middle.East,NA,FALSE
-282,2,0,2016,Josh Blakemore,Team Middle East,Xerxis 1,1,Middle.East,protectorate,FALSE
+281,2,1,2016,Fraser Phillips,Team Middle East,NA,1,Middle.East,cygnar,FALSE
+282,2,0,2016,Josh Blakemore,Team Middle East,NA,1,Middle.East,protectorate,FALSE
 283,2,0,2016,Joseph Hanna,Team Middle East,Xerxis 1,1,Middle.East,skorne,TRUE
 284,2,0,2016,Eric Liu,Team Middle East,Witch coven 1,1,Middle.East,cryx,TRUE
-285,2,0,2016,Bryce Geeraert,Team Middle East,Xerxis 1,1,Middle.East,circle,FALSE
+285,2,0,2016,Bryce Geeraert,Team Middle East,NA,1,Middle.East,circle,FALSE
 286,2,0,2016,Adam Fox,Team Northern Ireland,Naaresh 1,1,Northern.Ireland,skorne,TRUE
 287,2,0,2016,Andy Beattie,Team Northern Ireland,Wurmwood 1,1,Northern.Ireland,circle,TRUE
 288,2,0,2016,Gerard O'Brien,Team Northern Ireland,Agathia 1,1,Northern.Ireland,cryx,TRUE
@@ -407,12 +407,12 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 406,3,1,2016,Cory Doyle,Team Canada Moose,Kreoss 3,1,Canada,protectorate,TRUE
 407,3,1,2016,RJ Marchant,Team Canada Moose,Lylyth 3,1,Canada,legion,TRUE
 408,3,1,2016,Dustin McWhirter,Team Canada Moose,Haley 1,1,Canada,cygnar,TRUE
-409,3,1,2016,Lukasz Kruszenski,Team Canada Moose,Vayl 2,1,Canada,NA,FALSE
+409,3,1,2016,Lukasz Kruszenski,Team Canada Moose,Vayl 2,1,Canada,legion,TRUE
 410,3,1,2016,Jeff Everitt,Team Canada Moose,Butcher 1,1,Canada,khador,TRUE
 411,3,0,2016,Tim Bossuyt,Team Belgium Victorious Secret,Skarre 2,1,Belgium,cryx,TRUE
 412,3,1,2016,Christophe Dirckx,Team Belgium Victorious Secret,Sorscha 1,1,Belgium,khador,TRUE
 413,3,1,2016,Niels De Vlieger,Team Belgium Victorious Secret,Kallus 1,1,Belgium,legion,TRUE
-414,3,1,2016,Steven De Canck,Team Belgium Victorious Secret,Skarre 2,1,Belgium,khador,FALSE
+414,3,1,2016,Steven De Canck,Team Belgium Victorious Secret,NA,1,Belgium,khador,FALSE
 415,3,1,2016,Benoit Van Lee,Team Belgium Victorious Secret,Magnus 2,1,Belgium,mercenaries,TRUE
 416,3,1,2016,Tatu Purhonen,Team Finland Väinämöinen,Kromac 2,1,Finland,circle,TRUE
 417,3,1,2016,Tero Sarkijarvi,Team Finland Väinämöinen,Goreshade 1,1,Finland,cryx,TRUE
@@ -443,7 +443,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 442,3,0,2016,Dmitrii Tochenov,Team Russia Desmans,Vyros 2,1,Russia,retribution,TRUE
 443,3,0,2016,Alexander Loginov,Team Russia Desmans,Haley 3,1,Russia,cygnar,TRUE
 444,3,0,2016,Konstantin Kruchinin,Team Russia Desmans,Haley 2,1,Russia,cygnar,TRUE
-445,3,0,2016,Kirill Ustilovskiy,Team Russia Desmans,Karchev 1,1,Russia,NA,FALSE
+445,3,0,2016,Kirill Ustilovskiy,Team Russia Desmans,Karchev 1,1,Russia,khador,TRUE
 446,3,1,2016,Teemu Aro,Team Finland Ilmarinen,Vladimir 2,1,Finland,khador,TRUE
 447,3,1,2016,Teppo Aro,Team Finland Ilmarinen,Nemo 3,1,Finland,cygnar,TRUE
 448,3,1,2016,Samu Jarvinen,Team Finland Ilmarinen,Wurmwood 1,1,Finland,circle,TRUE
@@ -471,7 +471,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 470,3,0,2016,Michiel Smits,Team Netherlands Vermeer,Madrak 2,1,Netherlands,trollbloods,TRUE
 471,3,1,2016,Mike Puryear,Team USA Red,Harbinger 1,1,USA,protectorate,TRUE
 472,3,1,2016,Billy Robin,Team USA Red,Caine 2,1,USA,cygnar,TRUE
-473,3,1,2016,Jason Flanzer,Team USA Red,Harbinger 1,1,USA,trollbloods,FALSE
+473,3,1,2016,Jason Flanzer,Team USA Red,NA,1,USA,trollbloods,FALSE
 474,3,0,2016,Bret Fogel,Team USA Red,Wurmwood 1,1,USA,circle,TRUE
 475,3,1,2016,David Smith,Team USA Red,Damiano 1,1,USA,mercenaries,TRUE
 476,3,1,2016,Tomas Sedlon,Team Czech Republic White,Irusk 2,1,Czech.Republic,khador,TRUE
@@ -526,7 +526,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 525,4,0,2016,Ross Harkin,Team Scotland Bru,Irusk 2,1,Scotland,khador,TRUE
 526,4,1,2016,Jeff Everitt,Team Canada Moose,Butcher 1,1,Canada,khador,TRUE
 527,4,1,2016,Cory Doyle,Team Canada Moose,Kreoss 3,1,Canada,protectorate,TRUE
-528,4,0,2016,Lukasz Kruszenski,Team Canada Moose,Vayl 2,1,Canada,NA,FALSE
+528,4,0,2016,Lukasz Kruszenski,Team Canada Moose,Vayl 2,1,Canada,legion,TRUE
 529,4,1,2016,RJ Marchant,Team Canada Moose,Lylyth 3,1,Canada,legion,TRUE
 530,4,1,2016,Dustin McWhirter,Team Canada Moose,Stryker 2,1,Canada,cygnar,TRUE
 531,4,1,2016,Tero Sarkijarvi,Team Finland Väinämöinen,Goreshade 1,1,Finland,cryx,TRUE
@@ -591,7 +591,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 590,4,1,2016,Luke Pollard,Team China Egg Roll,Kromac 2,1,China,circle,TRUE
 591,4,0,2016,Vasco Oliveira,Team Portugal Prime,Vayl 2,1,Portugal,legion,TRUE
 592,4,0,2016,Nuno Sequeira,Team Portugal Prime,Terminus 1,1,Portugal,cryx,TRUE
-593,4,0,2016,Alexis Vallalta,Team Portugal Prime,Lucant 1,1,Portugal,NA,FALSE
+593,4,0,2016,Alexis Vallalta,Team Portugal Prime,Lucant 1,1,Portugal,convergence,TRUE
 594,4,0,2016,Paulo Morais,Team Portugal Prime,Haley 2,1,Portugal,cygnar,TRUE
 595,4,1,2016,Joao Morais,Team Portugal Prime,Rasheth 1,1,Portugal,skorne,TRUE
 596,4,1,2016,Gabor Wolf,Team Hungary,Karchev 1,1,Hungary,khador,TRUE
@@ -634,7 +634,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 633,4,0,2016,Moritz Schwank,Team Switzerland Cheese,Sorscha 1,1,Switzerland,khador,TRUE
 634,4,1,2016,Pascal Kruttli,Team Switzerland Cheese,Sturm & Drang 1,1,Switzerland,minions,TRUE
 635,4,1,2016,Lorenz Gredig,Team Switzerland Cheese,Skarre 2,1,Switzerland,cryx,TRUE
-636,4,1,2016,Fraser Phillips,Team Middle East,Caine 2,1,Middle.East,NA,FALSE
+636,4,1,2016,Fraser Phillips,Team Middle East,Caine 2,1,Middle.East,cygnar,TRUE
 637,4,0,2016,Joseph Hanna,Team Middle East,Hexeris 2,1,Middle.East,skorne,TRUE
 638,4,1,2016,Bryce Geeraert,Team Middle East,Wurmwood 1,1,Middle.East,circle,TRUE
 639,4,0,2016,Eric Liu,Team Middle East,Asphyxious 3,1,Middle.East,cryx,TRUE
@@ -683,7 +683,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 682,5,0,2016,RJ Marchant,Team Canada Moose,Saeryn 2 & Rhyas 2,1,Canada,legion,TRUE
 683,5,0,2016,Jeff Everitt,Team Canada Moose,Irusk 2,1,Canada,khador,TRUE
 684,5,1,2016,Dustin McWhirter,Team Canada Moose,Haley 1,1,Canada,cygnar,TRUE
-685,5,0,2016,Lukasz Kruszenski,Team Canada Moose,Vayl 1,1,Canada,NA,FALSE
+685,5,0,2016,Lukasz Kruszenski,Team Canada Moose,Vayl 1,1,Canada,legion,TRUE
 686,5,1,2016,Bogdan Novikov,Team Russia Bears,Baldur 2,1,Russia,circle,TRUE
 687,5,1,2016,Dmitry Khalansky,Team Russia Bears,Haley 2,1,Russia,cygnar,TRUE
 688,5,0,2016,Artem Volik,Team Russia Bears,Issyria 1,1,Russia,retribution,TRUE
@@ -763,7 +763,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 762,5,0,2016,Eric Liu,Team Middle East,Asphyxious 3,1,Middle.East,cryx,TRUE
 763,5,1,2016,Josh Blakemore,Team Middle East,Severius 2,1,Middle.East,protectorate,TRUE
 764,5,0,2016,Joseph Hanna,Team Middle East,Hexeris 2,1,Middle.East,skorne,TRUE
-765,5,1,2016,Fraser Phillips,Team Middle East,Stryker 2,1,Middle.East,NA,FALSE
+765,5,1,2016,Fraser Phillips,Team Middle East,Stryker 2,1,Middle.East,cygnar,TRUE
 766,5,0,2016,Moritz Schwank,Team Switzerland Cheese,Butcher 1,1,Switzerland,khador,TRUE
 767,5,0,2016,Lorenz Gredig,Team Switzerland Cheese,Skarre 2,1,Switzerland,cryx,TRUE
 768,5,1,2016,Henrik Ekholm,Team Switzerland Cheese,Rasheth 1,1,Switzerland,skorne,TRUE
@@ -778,7 +778,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 777,5,1,2016,Andrei Isaev,Team Latvia,Caine 2,1,Latvia,cygnar,TRUE
 778,5,1,2016,Eduard Berdjugin,Team Latvia,Lylyth 3,1,Latvia,legion,TRUE
 779,5,1,2016,Aleksandr Blumental,Team Latvia,Vladimir 2,1,Latvia,khador,TRUE
-780,5,1,2016,Dmitri Pechonkin,Team Latvia,Lylyth 3,1,Latvia,circle,FALSE
+780,5,1,2016,Dmitri Pechonkin,Team Latvia,NA,1,Latvia,circle,FALSE
 781,5,0,2016,Alexander Grob,Team Austria Apfelstrudel,Darius 1,1,Austria,cygnar,TRUE
 782,5,1,2016,Martin Florian,Team Austria Apfelstrudel,Butcher 3,1,Austria,khador,TRUE
 783,5,1,2016,Daniel Maierl,Team Austria Apfelstrudel,Vyros 2,1,Austria,retribution,TRUE
@@ -794,11 +794,11 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 793,5,1,2016,Olivier Gheysen,Team UAE,Wurmwood 1,1,UAE,circle,TRUE
 794,5,1,2016,Nathan Bosa,Team UAE,Venethrax 1,1,UAE,cryx,TRUE
 795,5,1,2016,Enrique Sanchez,Team UAE,Caine 1,1,UAE,cygnar,TRUE
-796,5,1,2016,Dmitrii Tochenov,Team Russia Desmans,Nemo 1,1,Russia,retribution,FALSE
+796,5,1,2016,Dmitrii Tochenov,Team Russia Desmans,NA,1,Russia,retribution,FALSE
 797,5,0,2016,Aleksei Guk,Team Russia Desmans,Helynna 1,1,Russia,retribution,TRUE
-798,5,1,2016,Konstantin Kruchinin,Team Russia Desmans,Rahn 1,1,Russia,cygnar,FALSE
+798,5,1,2016,Konstantin Kruchinin,Team Russia Desmans,NA,1,Russia,cygnar,FALSE
 799,5,0,2016,Alexander Loginov,Team Russia Desmans,Haley 3,1,Russia,cygnar,TRUE
-800,5,0,2016,Kirill Ustilovskiy,Team Russia Desmans,Karchev 1,1,Russia,NA,FALSE
+800,5,0,2016,Kirill Ustilovskiy,Team Russia Desmans,Karchev 1,1,Russia,khador,TRUE
 801,6,1,2016,Chris Davies,Team Australia Echidna ,Irusk 2,1,Australia,khador,TRUE
 802,6,1,2016,Dyland Simmer,Team Australia Echidna ,Kaelyssa 1,1,Australia,retribution,TRUE
 803,6,1,2016,Jack Ding,Team Australia Echidna ,High Reclaimer 1,1,Australia,protectorate,TRUE
@@ -853,7 +853,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 852,6,1,2016,Niels De Vlieger,Team Belgium Victorious Secret,Kallus 1,1,Belgium,legion,TRUE
 853,6,0,2016,Benoit Van Lee,Team Belgium Victorious Secret,Magnus 2,1,Belgium,mercenaries,TRUE
 854,6,0,2016,Christophe Dirckx,Team Belgium Victorious Secret,Sorscha 1,1,Belgium,khador,TRUE
-855,6,1,2016,Steven De Canck,Team Belgium Victorious Secret,Lylyth 3,1,Belgium,khador,FALSE
+855,6,1,2016,Steven De Canck,Team Belgium Victorious Secret,NA,1,Belgium,khador,FALSE
 856,6,0,2016,Iiro Järvenpää,Team Finland Ilmarinen,Rasheth 1,1,Finland,skorne,TRUE
 857,6,0,2016,Hermanni Raatevaara,Team Finland Ilmarinen,Irusk 2,1,Finland,khador,TRUE
 858,6,0,2016,Teppo Aro,Team Finland Ilmarinen,Nemo 3,1,Finland,cygnar,TRUE
@@ -942,7 +942,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 941,6,1,2016,Joao Morais,Team Portugal Prime,Rasheth 1,1,Portugal,skorne,TRUE
 942,6,0,2016,Paulo Morais,Team Portugal Prime,Haley 1,1,Portugal,cygnar,TRUE
 943,6,0,2016,Nuno Sequeira,Team Portugal Prime,Scaverous 1,1,Portugal,cryx,TRUE
-944,6,0,2016,Alexis Vallalta,Team Portugal Prime,Iron Mother 1,1,Portugal,NA,FALSE
+944,6,0,2016,Alexis Vallalta,Team Portugal Prime,Iron Mother 1,1,Portugal,convergence,TRUE
 945,6,1,2016,Vasco Oliveira,Team Portugal Prime,Vayl 1,1,Portugal,legion,TRUE
 946,6,0,2016,Nathan Bosa,Team UAE,Deneghra 1,1,UAE,cryx,TRUE
 947,6,0,2016,John Helz,Team UAE,Madrak 2,1,UAE,trollbloods,TRUE
@@ -1053,9 +1053,9 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 92,1,0,2016,Nuno Sequeira,Team Portugal Prime,Scaverous 1,2,Portugal,cryx,TRUE
 93,1,1,2016,Vasco Oliveira,Team Portugal Prime,Vayl 2,2,Portugal,legion,TRUE
 94,1,1,2016,Paulo Morais,Team Portugal Prime,Haley 1,2,Portugal,cygnar,TRUE
-95,1,1,2016,Alexis Vallalta,Team Portugal Prime,Iron Mother 1,2,Portugal,NA,FALSE
+95,1,1,2016,Alexis Vallalta,Team Portugal Prime,Iron Mother 1,2,Portugal,convergence,TRUE
 96,1,1,2016,Alexander Loginov,Team Russia Desmans,Nemo 1,2,Russia,cygnar,TRUE
-97,1,1,2016,Kirill Ustilovskiy,Team Russia Desmans,Butcher 1,2,Russia,NA,FALSE
+97,1,1,2016,Kirill Ustilovskiy,Team Russia Desmans,Butcher 1,2,Russia,khador,TRUE
 98,1,0,2016,Dmitrii Tochenov,Team Russia Desmans,Rahn 1,2,Russia,retribution,TRUE
 99,1,1,2016,Konstantin Kruchinin,Team Russia Desmans,Haley 2,2,Russia,cygnar,TRUE
 100,1,1,2016,Aleksei Guk,Team Russia Desmans,Ossyan 1,2,Russia,retribution,TRUE
@@ -1069,7 +1069,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 108,1,1,2016,Adrian Ramos,Team Spain Rogue,Iron Mother 1,2,Spain,convergence,TRUE
 109,1,0,2016,Manuel Tulla,Team Spain Rogue,Wurmwood 1,2,Spain,circle,TRUE
 110,1,1,2016,Jorge Cerdá,Team Spain Rogue,Madrak 2,2,Spain,trollbloods,TRUE
-111,1,1,2016,Fraser Phillips,Team Middle East,Caine 2,2,Middle.East,NA,FALSE
+111,1,1,2016,Fraser Phillips,Team Middle East,Caine 2,2,Middle.East,cygnar,TRUE
 112,1,1,2016,Bryce Geeraert,Team Middle East,Baldur 2,2,Middle.East,circle,TRUE
 113,1,1,2016,Josh Blakemore,Team Middle East,Vindictus 1,2,Middle.East,protectorate,TRUE
 114,1,1,2016,Joseph Hanna,Team Middle East,Xerxis 1,2,Middle.East,skorne,TRUE
@@ -1210,7 +1210,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 249,2,1,2016,Marnix Baas,Team Netherlands Vermeer,Irusk 2,2,Netherlands,khador,TRUE
 250,2,1,2016,Michael Boom,Team Netherlands Vermeer,Amon 1,2,Netherlands,protectorate,TRUE
 251,2,1,2016,Alexander Loginov,Team Russia Desmans,Nemo 1,2,Russia,cygnar,TRUE
-252,2,1,2016,Kirill Ustilovskiy,Team Russia Desmans,Karchev 1,2,Russia,NA,FALSE
+252,2,1,2016,Kirill Ustilovskiy,Team Russia Desmans,Karchev 1,2,Russia,khador,TRUE
 253,2,1,2016,Aleksei Guk,Team Russia Desmans,Ossyan 1,2,Russia,retribution,TRUE
 254,2,1,2016,Dmitrii Tochenov,Team Russia Desmans,Vyros 2,2,Russia,retribution,TRUE
 255,2,0,2016,Konstantin Kruchinin,Team Russia Desmans,Sloan 1,2,Russia,cygnar,TRUE
@@ -1227,7 +1227,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 266,2,0,2016,Joao Morais,Team Portugal Prime,Rasheth 1,2,Portugal,skorne,TRUE
 267,2,1,2016,Nuno Sequeira,Team Portugal Prime,Terminus 1,2,Portugal,cryx,TRUE
 268,2,1,2016,Paulo Morais,Team Portugal Prime,Haley 2,2,Portugal,cygnar,TRUE
-269,2,1,2016,Alexis Vallalta,Team Portugal Prime,Iron Mother 1,2,Portugal,NA,FALSE
+269,2,1,2016,Alexis Vallalta,Team Portugal Prime,Iron Mother 1,2,Portugal,convergence,TRUE
 270,2,0,2016,Vasco Oliveira,Team Portugal Prime,Vayl 1,2,Portugal,legion,TRUE
 271,2,0,2016,Martin Hornacek,Team Austria Schnitzel,Hexeris 2,2,Austria,skorne,TRUE
 272,2,0,2016,Florian Hartmann,Team Austria Schnitzel,Ossyan 1,2,Austria,retribution,TRUE
@@ -1260,7 +1260,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 299,2,0,2016,Davide Insinna,Team Italy Leonardo,Doomshaper 3,2,Italy,trollbloods,TRUE
 300,2,0,2016,Diego Moruzzo,Team Italy Leonardo,High Reclaimer 1,2,Italy,protectorate,TRUE
 301,2,1,2016,RJ Marchant,Team Canada Moose,Lylyth 3,2,Canada,legion,TRUE
-302,2,1,2016,Lukasz Kruszenski,Team Canada Moose,Vayl 2,2,Canada,NA,FALSE
+302,2,1,2016,Lukasz Kruszenski,Team Canada Moose,Vayl 2,2,Canada,legion,TRUE
 303,2,0,2016,Cory Doyle,Team Canada Moose,Kreoss 3,2,Canada,protectorate,TRUE
 304,2,0,2016,Jeff Everitt,Team Canada Moose,Irusk 2,2,Canada,khador,TRUE
 305,2,0,2016,Dustin McWhirter,Team Canada Moose,Stryker 2,2,Canada,cygnar,TRUE
@@ -1319,7 +1319,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 358,3,1,2016,Alberto Santos,Team Portugal Primal,Sorscha 1,2,Portugal,khador,TRUE
 359,3,0,2016,Luis Leite,Team Portugal Primal,High Reclaimer 1,2,Portugal,protectorate,TRUE
 360,3,0,2016,Andre Valentim,Team Portugal Primal,Issyria 1,2,Portugal,retribution,TRUE
-361,3,1,2016,Victor Pons Tec,Team France Asterix,Baldur 2,2,France,trollbloods,FALSE
+361,3,1,2016,Victor Pons Tec,Team France Asterix,NA,2,France,trollbloods,FALSE
 362,3,1,2016,Antoine Granet Tza,Team France Asterix,Wurmwood 1,2,France,circle,TRUE
 363,3,1,2016,Julien Dupoirieux,Team France Asterix,Baldur 2,2,France,circle,TRUE
 364,3,1,2016,Matthieu Vega Mouskapet,Team France Asterix,Scaverous 1,2,France,cryx,TRUE
@@ -1335,7 +1335,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 374,3,1,2016,Scott Hooper-Jones,Team Wales Crafanc,Magnus 2,2,Wales,mercenaries,TRUE
 375,3,1,2016,Alun Evans,Team Wales Crafanc,Kreoss 1,2,Wales,protectorate,TRUE
 376,3,0,2016,Vincenzo Rotondo,Team Italy Leonardo,Caine 2,2,Italy,cygnar,TRUE
-377,3,0,2016,Diego Moruzzo,Team Italy Leonardo,Madrak 2,2,Italy,protectorate,FALSE
+377,3,0,2016,Diego Moruzzo,Team Italy Leonardo,NA,2,Italy,protectorate,FALSE
 378,3,1,2016,Francesco Recchiuti,Team Italy Leonardo,Deneghra 1,2,Italy,cryx,TRUE
 379,3,0,2016,Andrea Cesana,Team Italy Leonardo,Irusk 2,2,Italy,khador,TRUE
 380,3,1,2016,Davide Insinna,Team Italy Leonardo,Madrak 2,2,Italy,trollbloods,TRUE
@@ -1422,7 +1422,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 461,3,1,2016,Josh Blakemore,Team Middle East,Vindictus 1,2,Middle.East,protectorate,TRUE
 462,3,1,2016,Bryce Geeraert,Team Middle East,Wurmwood 1,2,Middle.East,circle,TRUE
 463,3,0,2016,Eric Liu,Team Middle East,Asphyxious 3,2,Middle.East,cryx,TRUE
-464,3,1,2016,Fraser Phillips,Team Middle East,Caine 2,2,Middle.East,NA,FALSE
+464,3,1,2016,Fraser Phillips,Team Middle East,Caine 2,2,Middle.East,cygnar,TRUE
 465,3,1,2016,Joseph Hanna,Team Middle East,Xerxis 1,2,Middle.East,skorne,TRUE
 466,3,1,2016,Jan Kleva Ivancic,Team Slovenia,Vladimir 1,2,Slovenia,khador,TRUE
 467,3,1,2016,Jean-Sebastien Imbeau,Team Slovenia,Kreoss 1,2,Slovenia,protectorate,TRUE
@@ -1435,7 +1435,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 474,3,0,2016,Lorenz Gredig,Team Switzerland Cheese,Asphyxious 3,2,Switzerland,cryx,TRUE
 475,3,1,2016,Henrik Ekholm,Team Switzerland Cheese,Morghoul 1,2,Switzerland,skorne,TRUE
 476,3,1,2016,Nuno Sequeira,Team Portugal Prime,Scaverous 1,2,Portugal,cryx,TRUE
-477,3,0,2016,Alexis Vallalta,Team Portugal Prime,Lucant 1,2,Portugal,NA,FALSE
+477,3,0,2016,Alexis Vallalta,Team Portugal Prime,Lucant 1,2,Portugal,convergence,TRUE
 478,3,1,2016,Paulo Morais,Team Portugal Prime,Haley 2,2,Portugal,cygnar,TRUE
 479,3,0,2016,Joao Morais,Team Portugal Prime,Rasheth 1,2,Portugal,skorne,TRUE
 480,3,0,2016,Vasco Oliveira,Team Portugal Prime,Vayl 2,2,Portugal,legion,TRUE
@@ -1591,12 +1591,12 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 630,4,0,2016,Tomas Sedlon,Team Czech Republic White,Butcher 3,2,Czech.Republic,khador,TRUE
 631,4,1,2016,Olivier Gheysen,Team UAE,Wurmwood 1,2,UAE,circle,TRUE
 632,4,0,2016,John Helz,Team UAE,Madrak 2,2,UAE,trollbloods,TRUE
-633,4,0,2016,Enrique Sanchez,Team UAE,Madrak 2,2,UAE,cygnar,FALSE
+633,4,0,2016,Enrique Sanchez,Team UAE,NA,2,UAE,cygnar,FALSE
 634,4,1,2016,Mike Dunlop,Team UAE,Irusk 2,2,UAE,khador,TRUE
 635,4,1,2016,Nathan Bosa,Team UAE,Deneghra 1,2,UAE,cryx,TRUE
 636,4,1,2016,Aleksei Guk,Team Russia Desmans,Helynna 1,2,Russia,retribution,TRUE
 637,4,0,2016,Konstantin Kruchinin,Team Russia Desmans,Sloan 1,2,Russia,cygnar,TRUE
-638,4,1,2016,Kirill Ustilovskiy,Team Russia Desmans,Karchev 1,2,Russia,NA,FALSE
+638,4,1,2016,Kirill Ustilovskiy,Team Russia Desmans,Karchev 1,2,Russia,khador,TRUE
 639,4,0,2016,Dmitrii Tochenov,Team Russia Desmans,Vyros 2,2,Russia,retribution,TRUE
 640,4,1,2016,Alexander Loginov,Team Russia Desmans,Nemo 1,2,Russia,cygnar,TRUE
 641,5,1,2016,Johan Dyrlind,Team Sweden Nobel,Karchev 1,2,Sweden,khador,TRUE
@@ -1737,7 +1737,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 776,5,0,2016,Joao Morais,Team Portugal Prime,Rasheth 1,2,Portugal,skorne,TRUE
 777,5,1,2016,Nuno Sequeira,Team Portugal Prime,Terminus 1,2,Portugal,cryx,TRUE
 778,5,1,2016,Paulo Morais,Team Portugal Prime,Haley 2,2,Portugal,cygnar,TRUE
-779,5,1,2016,Alexis Vallalta,Team Portugal Prime,Lucant 1,2,Portugal,NA,FALSE
+779,5,1,2016,Alexis Vallalta,Team Portugal Prime,Lucant 1,2,Portugal,convergence,TRUE
 780,5,1,2016,Vasco Oliveira,Team Portugal Prime,Vayl 1,2,Portugal,legion,TRUE
 781,5,0,2016,Mateusz Dziewanowski,Team Poland Storks,Helynna 1,2,Poland,retribution,TRUE
 782,5,1,2016,Piotr Gotowiec,Team Poland Storks,Sorscha 1,2,Poland,khador,TRUE
@@ -1789,7 +1789,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 828,6,0,2016,Bernhard Fischer,Team Germany Gold,Kaya 2,2,Germany,circle,TRUE
 829,6,0,2016,Christopher Muller,Team Germany Gold,High Reclaimer 1,2,Germany,protectorate,TRUE
 830,6,1,2016,Philipp Schaper,Team Germany Gold,Ravyn 1,2,Germany,retribution,TRUE
-831,6,0,2016,Lukasz Kruszenski,Team Canada Moose,Vayl 2,2,Canada,NA,FALSE
+831,6,0,2016,Lukasz Kruszenski,Team Canada Moose,Vayl 2,2,Canada,legion,TRUE
 832,6,0,2016,Cory Doyle,Team Canada Moose,Kreoss 3,2,Canada,protectorate,TRUE
 833,6,0,2016,Dustin McWhirter,Team Canada Moose,Stryker 2,2,Canada,cygnar,TRUE
 834,6,0,2016,Jeff Everitt,Team Canada Moose,Irusk 2,2,Canada,khador,TRUE
@@ -1844,7 +1844,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 883,6,0,2016,Georg Buscha,Team Netherlands Van Gogh,Helynna 1,2,Netherlands,retribution,TRUE
 884,6,1,2016,Sietse Sommeling,Team Netherlands Van Gogh,Issyria 1,2,Netherlands,retribution,TRUE
 885,6,0,2016,Casper Jellema,Team Netherlands Van Gogh,Wurmwood 1,2,Netherlands,circle,TRUE
-886,6,1,2016,Fraser Phillips,Team Middle East,Caine 2,2,Middle.East,NA,FALSE
+886,6,1,2016,Fraser Phillips,Team Middle East,Caine 2,2,Middle.East,cygnar,TRUE
 887,6,0,2016,Bryce Geeraert,Team Middle East,Baldur 2,2,Middle.East,circle,TRUE
 888,6,1,2016,Eric Liu,Team Middle East,Asphyxious 3,2,Middle.East,cryx,TRUE
 889,6,1,2016,Joseph Hanna,Team Middle East,Xerxis 1,2,Middle.East,skorne,TRUE
@@ -1914,7 +1914,7 @@ game_id,round,TP,year,player,teamname,list,team,country,faction,valid
 953,6,1,2016,Pascal Kruttli,Team Switzerland Cheese,Carver 1,2,Switzerland,minions,TRUE
 954,6,1,2016,Henrik Ekholm,Team Switzerland Cheese,Morghoul 1,2,Switzerland,skorne,TRUE
 955,6,1,2016,Lorenz Gredig,Team Switzerland Cheese,Skarre 2,2,Switzerland,cryx,TRUE
-956,6,1,2016,Kirill Ustilovskiy,Team Russia Desmans,Karchev 1,2,Russia,NA,FALSE
+956,6,1,2016,Kirill Ustilovskiy,Team Russia Desmans,Karchev 1,2,Russia,khador,TRUE
 957,6,1,2016,Aleksei Guk,Team Russia Desmans,Helynna 1,2,Russia,retribution,TRUE
 958,6,0,2016,Dmitrii Tochenov,Team Russia Desmans,Vyros 2,2,Russia,retribution,TRUE
 959,6,1,2016,Konstantin Kruchinin,Team Russia Desmans,Haley 2,2,Russia,cygnar,TRUE
